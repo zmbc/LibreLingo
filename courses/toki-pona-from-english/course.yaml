@@ -1,0 +1,20 @@
+Course:
+  Language:
+    Name: toki pona
+    IETF BCP 47: tokipona
+
+  For speakers of:
+    Name: English
+    IETF BCP 47: en
+
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+  Repository: https://github.com/kantord/LibreLingo/tree/main/courses/test
+
+  Special characters: []
+
+Modules:
+  - basics

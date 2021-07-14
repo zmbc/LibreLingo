@@ -1,0 +1,434 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 2,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ni li kala",
+      "meaningInSourceLanguage": "This is a fish",
+      "id": "9b8a593e2f0c",
+      "priority": 0,
+      "group": "364dcef92a98"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ni li kala",
+      "meaning": "This is a fish",
+      "audio": "46935ceacb51b9d7e2dd69cb266f8b5f6344f5e0ad022438a76cb356bfb5c004",
+      "id": "042a90bb0baa",
+      "priority": 1,
+      "group": "364dcef92a98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "This",
+          "definition": "ni"
+        },
+        {
+          "word": "is",
+          "definition": "(no equivalent)"
+        },
+        {
+          "word": "a",
+          "definition": "(no equivalent)"
+        },
+        {
+          "word": "fish",
+          "definition": "kala"
+        }
+      ],
+      "chips": [
+        "ni",
+        "li",
+        "kala",
+        "ona",
+        "pona"
+      ],
+      "solutions": [
+        [
+          "ni",
+          "li",
+          "kala"
+        ]
+      ],
+      "formattedSolution": "ni li kala",
+      "id": "1d06648c735c",
+      "priority": 2,
+      "group": "364dcef92a98"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ni",
+          "definition": "these\nthis"
+        },
+        {
+          "word": "li",
+          "definition": "particle between subject and predicate"
+        },
+        {
+          "word": "kala",
+          "definition": "fish\nfish or swimming animal\nswimming animal"
+        }
+      ],
+      "chips": [
+        "This",
+        "is",
+        "a",
+        "fish",
+        "are",
+        "They",
+        "dogs"
+      ],
+      "solutions": [
+        [
+          "This",
+          "is",
+          "a",
+          "fish"
+        ]
+      ],
+      "formattedSolution": "This is a fish",
+      "id": "1f5a097259fd",
+      "priority": 2,
+      "group": "364dcef92a98"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li soweli",
+      "meaningInSourceLanguage": "They are dogs",
+      "id": "f7752d3fd9f0",
+      "priority": 0,
+      "group": "e93404d8b735"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li soweli",
+      "meaning": "They are dogs",
+      "audio": "8a8206e10e2b1a2822756bcaa29c86475fc171246f2fa9a6e24f97d8194b874b",
+      "id": "747d5ada2025",
+      "priority": 1,
+      "group": "e93404d8b735"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "ona"
+        },
+        {
+          "word": "are",
+          "definition": "(no equivalent)"
+        },
+        {
+          "word": "dogs",
+          "definition": "soweli"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "soweli",
+        "ni",
+        "pona"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "soweli"
+        ]
+      ],
+      "formattedSolution": "ona li soweli",
+      "id": "9326d64c7397",
+      "priority": 2,
+      "group": "e93404d8b735"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "he\nit\nshe\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "particle between subject and predicate"
+        },
+        {
+          "word": "soweli",
+          "definition": "land animal"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "dogs",
+        "This",
+        "is"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "dogs"
+        ]
+      ],
+      "formattedSolution": "They are dogs",
+      "id": "196b86a84948",
+      "priority": 2,
+      "group": "e93404d8b735"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "waso li pona",
+      "meaningInSourceLanguage": "Birds are good",
+      "id": "0056f95f57ea",
+      "priority": 0,
+      "group": "d525ffc68bc5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waso li pona",
+      "meaning": "Birds are good",
+      "audio": "39d673e4b8822d6ef4ad1703968b67e105e4acebaad31412e5b37061431cb34c",
+      "id": "38af311ef32b",
+      "priority": 1,
+      "group": "d525ffc68bc5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "Birds",
+          "definition": "waso"
+        },
+        {
+          "word": "are",
+          "definition": "(no equivalent)"
+        },
+        {
+          "word": "good",
+          "definition": "pona"
+        }
+      ],
+      "chips": [
+        "waso",
+        "li",
+        "pona",
+        "ni",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "waso",
+          "li",
+          "pona"
+        ]
+      ],
+      "formattedSolution": "waso li pona",
+      "id": "d21679beee00",
+      "priority": 2,
+      "group": "d525ffc68bc5"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "waso",
+          "definition": "bird\nbird or flying animal\nflying animal"
+        },
+        {
+          "word": "li",
+          "definition": "particle between subject and predicate"
+        },
+        {
+          "word": "pona",
+          "definition": "good\nsimple"
+        }
+      ],
+      "chips": [
+        "Birds",
+        "are",
+        "good",
+        "is",
+        "a"
+      ],
+      "solutions": [
+        [
+          "Birds",
+          "are",
+          "good"
+        ]
+      ],
+      "formattedSolution": "Birds are good",
+      "id": "8fa672eaed74",
+      "priority": 2,
+      "group": "d525ffc68bc5"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cat3.jpg",
+        "lion1.jpg",
+        "cow1.jpg"
+      ],
+      "formInTargetLanguage": "soweli",
+      "meaningInSourceLanguage": "land animal",
+      "id": "7816c1a272b7",
+      "priority": 0,
+      "group": "7fa860ff1d99"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cat3.jpg",
+        "lion1.jpg",
+        "cow1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "soweli"
+      ],
+      "phrase": [
+        {
+          "word": "land",
+          "definition": "ma"
+        },
+        {
+          "word": "animal",
+          "definition": "soweli anu waso anu kala"
+        }
+      ],
+      "id": "46055d0d30cc",
+      "priority": 1,
+      "group": "7fa860ff1d99"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli",
+      "meaning": "land animal",
+      "audio": "0c845d712946d4ffa0865fecb2cf64e51fca405117fd8b75591368026b43e4d4",
+      "id": "514bce9eb50a",
+      "priority": 1,
+      "group": "7fa860ff1d99"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "duck1.jpg",
+        "bird3.jpg",
+        "bird1.jpg"
+      ],
+      "formInTargetLanguage": "waso",
+      "meaningInSourceLanguage": "bird or flying animal",
+      "id": "0cdafe3afa11",
+      "priority": 0,
+      "group": "f891500c7316"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "duck1.jpg",
+        "bird3.jpg",
+        "bird1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "waso"
+      ],
+      "phrase": [
+        {
+          "word": "bird",
+          "definition": "waso"
+        },
+        {
+          "word": "or",
+          "definition": "anu"
+        },
+        {
+          "word": "flying",
+          "definition": "tawa waso"
+        },
+        {
+          "word": "animal",
+          "definition": "soweli anu waso anu kala"
+        }
+      ],
+      "id": "a0ccbecaec37",
+      "priority": 1,
+      "group": "f891500c7316"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "waso",
+      "meaning": "bird or flying animal",
+      "audio": "a5068060961da85339f97865e1354211f7a4e17bf63befba7336b9b3eef69b8b",
+      "id": "bb60f7fdb818",
+      "priority": 1,
+      "group": "f891500c7316"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "fish2.jpg",
+        "fish1.jpg",
+        "fish3.jpg"
+      ],
+      "formInTargetLanguage": "kala",
+      "meaningInSourceLanguage": "fish or swimming animal",
+      "id": "18b434e33073",
+      "priority": 0,
+      "group": "6d28f278c03b"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "fish2.jpg",
+        "fish1.jpg",
+        "fish3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "kala"
+      ],
+      "phrase": [
+        {
+          "word": "fish",
+          "definition": "kala"
+        },
+        {
+          "word": "or",
+          "definition": "anu"
+        },
+        {
+          "word": "swimming",
+          "definition": "tawa kala"
+        },
+        {
+          "word": "animal",
+          "definition": "soweli anu waso anu kala"
+        }
+      ],
+      "id": "b1c799fc625d",
+      "priority": 1,
+      "group": "6d28f278c03b"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "kala",
+      "meaning": "fish or swimming animal",
+      "audio": "68721cfdfa60095532bf1ee0b7af0a5b5032a5cc1e7877826e2d3e9451db1361",
+      "id": "462cc69a9fb7",
+      "priority": 1,
+      "group": "6d28f278c03b"
+    }
+  ]
+}

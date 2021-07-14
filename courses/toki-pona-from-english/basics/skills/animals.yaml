@@ -1,0 +1,78 @@
+Skill:
+  Name: Animals
+  Id: 2
+  Thumbnails:
+    - bird3
+    - cat3
+    - fish2
+
+New words:
+  - Word: soweli
+    Translation: land animal
+    Images:
+      - cat3
+      - lion1
+      - cow1
+
+  - Word: waso
+    Translation: bird or flying animal
+    Images:
+      - duck1
+      - bird3
+      - bird1
+
+  - Word: kala
+    Translation: fish or swimming animal
+    Images:
+      - fish2
+      - fish1
+      - fish3
+
+Phrases:
+  - Phrase: ni li kala
+    Translation: This is a fish
+
+  - Phrase: ona li soweli
+    Translation: They are dogs
+
+  - Phrase: waso li pona
+    Translation: Birds are good
+
+Mini-dictionary:
+  toki pona:
+    - pona:
+      - good
+      - simple
+    - li: particle between subject and predicate
+    - ni:
+      - this
+      - these
+    - ona:
+      - they
+      - it
+      - she
+      - he
+    - kala:
+      - fish
+      - swimming animal
+    - soweli: land animal
+    - waso:
+      - bird
+      - flying animal
+
+  English:
+    - good: pona
+    - they: ona
+    - this: ni
+    - fish: kala
+    - dogs: soweli
+    - bird: waso
+    - birds: waso
+    - land: ma
+    - flying: tawa waso
+    - swimming: tawa kala
+    - animal: soweli anu waso anu kala
+    - or: anu
+    - is: (no equivalent)
+    - a: (no equivalent)
+    - are: (no equivalent)

@@ -1,0 +1,39 @@
+{
+  "languageName": "toki pona",
+  "languageCode": "tokipona",
+  "specialCharacters": [],
+  "license": {
+    "name": {
+      "short": "CC BY-SA 4.0",
+      "full": "Attribution-ShareAlike 4.0 International"
+    },
+    "link": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "modules": [
+    {
+      "title": "Basics",
+      "skills": [
+        {
+          "imageSet": [
+            "bird3",
+            "cat3",
+            "fish2"
+          ],
+          "introduction": "animals.md",
+          "summary": [
+            "soweli",
+            "waso",
+            "kala",
+            "ni li kala",
+            "ona li soweli",
+            "waso li pona"
+          ],
+          "practiceHref": "animals",
+          "id": "38c2ea1c36d2",
+          "title": "Animals",
+          "levels": 2
+        }
+      ]
+    }
+  ]
+}
