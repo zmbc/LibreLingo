@@ -70,6 +70,12 @@
                 </Translate>
               </ButtonLink>
 
+              <ButtonLink primary hidden href="course/toki-pona-from-english">
+                <Translate key="index.start_parsig_course">
+                  Start learning Toki Pona
+                </Translate>
+              </ButtonLink>
+
               <ButtonLink primary href="about">
                 <Translate key="index.about_librelingo">
                   About LibreLingo
