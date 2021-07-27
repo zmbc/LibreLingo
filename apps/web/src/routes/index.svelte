@@ -82,6 +82,10 @@
                 </Translate>
               </ButtonLink>
 
+              <ButtonLink primary hidden href="/devtools">
+                Development tools
+              </ButtonLink>
+
               <ButtonLink primary href="https://librelingo.app/docs/">
                 <Translate key="index.development_docs">
                   Development documentation
