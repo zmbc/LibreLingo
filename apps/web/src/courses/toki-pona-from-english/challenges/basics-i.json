@@ -1,0 +1,479 @@
+{
+  "id": "569673478a3d",
+  "levels": 3,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "toki!",
+      "meaningInSourceLanguage": "hello!",
+      "id": "12291f91fa22",
+      "priority": 0,
+      "group": "fb704b938ee3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toki!",
+      "meaning": "hello!",
+      "audio": "64d88ba21a3ba814bc602581ef6993ebe6088efe02d53d181e2adb19521d0094",
+      "id": "394af5e1d363",
+      "priority": 1,
+      "group": "fb704b938ee3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mi toki",
+      "meaningInSourceLanguage": "I speak",
+      "id": "8a20fb46411e",
+      "priority": 0,
+      "group": "39bb7fc43b16"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi toki",
+      "meaning": "I speak",
+      "audio": "a3ceb80bf331a652ca38e78c3f489512cdd268b80bce0dc1ea1d74a0f71e8dcb",
+      "id": "9f7f89063629",
+      "priority": 1,
+      "group": "39bb7fc43b16"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "mi"
+        },
+        {
+          "word": "speak",
+          "definition": "toki"
+        }
+      ],
+      "chips": [
+        "mi",
+        "toki",
+        "sina",
+        "pona"
+      ],
+      "solutions": [
+        [
+          "mi",
+          "toki"
+        ]
+      ],
+      "formattedSolution": "mi toki",
+      "id": "00c4935a42a7",
+      "priority": 2,
+      "group": "39bb7fc43b16"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "mi",
+          "definition": "I\nme"
+        },
+        {
+          "word": "toki",
+          "definition": "hello\nlanguage\nspeech\ntalk"
+        }
+      ],
+      "chips": [
+        "I",
+        "speak",
+        "am",
+        "are"
+      ],
+      "solutions": [
+        [
+          "I",
+          "speak"
+        ]
+      ],
+      "formattedSolution": "I speak",
+      "id": "6d9f53a28ae8",
+      "priority": 2,
+      "group": "39bb7fc43b16"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sina toki",
+      "meaningInSourceLanguage": "You speak",
+      "id": "dfa9019458de",
+      "priority": 0,
+      "group": "2c96e7d513e4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sina toki",
+      "meaning": "You speak",
+      "audio": "1fbc11cb9f616e7f109909cdef34798589315f9de4ac370f9a790a2867acc922",
+      "id": "36aa3d92eccd",
+      "priority": 1,
+      "group": "2c96e7d513e4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "sina"
+        },
+        {
+          "word": "speak",
+          "definition": "toki"
+        }
+      ],
+      "chips": [
+        "sina",
+        "toki",
+        "pona",
+        "mi"
+      ],
+      "solutions": [
+        [
+          "sina",
+          "toki"
+        ]
+      ],
+      "formattedSolution": "sina toki",
+      "id": "d5b395acbee4",
+      "priority": 2,
+      "group": "2c96e7d513e4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "sina",
+          "definition": "you"
+        },
+        {
+          "word": "toki",
+          "definition": "hello\nlanguage\nspeech\ntalk"
+        }
+      ],
+      "chips": [
+        "You",
+        "speak",
+        "am",
+        "are"
+      ],
+      "solutions": [
+        [
+          "You",
+          "speak"
+        ]
+      ],
+      "formattedSolution": "You speak",
+      "id": "1e7064cd7bfb",
+      "priority": 2,
+      "group": "2c96e7d513e4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mi pona",
+      "meaningInSourceLanguage": "I am good",
+      "id": "3fc859841e81",
+      "priority": 0,
+      "group": "758b00947357"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi pona",
+      "meaning": "I am good",
+      "audio": "3d94ac94ad42f2aa10cd4ec6cea610c5ab01eb09d934a4bc33681044dc874564",
+      "id": "3db74d5a7f58",
+      "priority": 1,
+      "group": "758b00947357"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "mi"
+        },
+        {
+          "word": "am",
+          "definition": "-"
+        },
+        {
+          "word": "good",
+          "definition": "pona"
+        }
+      ],
+      "chips": [
+        "mi",
+        "pona",
+        "sina",
+        "toki"
+      ],
+      "solutions": [
+        [
+          "mi",
+          "pona"
+        ]
+      ],
+      "formattedSolution": "mi pona",
+      "id": "47faeda8db64",
+      "priority": 2,
+      "group": "758b00947357"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "mi",
+          "definition": "I\nme"
+        },
+        {
+          "word": "pona",
+          "definition": "good\nsimple"
+        }
+      ],
+      "chips": [
+        "I",
+        "am",
+        "good",
+        "You",
+        "are"
+      ],
+      "solutions": [
+        [
+          "I",
+          "am",
+          "good"
+        ]
+      ],
+      "formattedSolution": "I am good",
+      "id": "f28757dabf24",
+      "priority": 2,
+      "group": "758b00947357"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "sina pona",
+      "meaningInSourceLanguage": "You are good",
+      "id": "08ae549d8775",
+      "priority": 0,
+      "group": "a23c2abc583f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sina pona",
+      "meaning": "You are good",
+      "audio": "1c5dbf548bca3e9264fdbc9b3eddccc24eac565b727681a24c3d8fac640f072b",
+      "id": "f02018e5f5b0",
+      "priority": 1,
+      "group": "a23c2abc583f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "You",
+          "definition": "sina"
+        },
+        {
+          "word": "are",
+          "definition": "-"
+        },
+        {
+          "word": "good",
+          "definition": "pona"
+        }
+      ],
+      "chips": [
+        "sina",
+        "pona",
+        "toki",
+        "mi"
+      ],
+      "solutions": [
+        [
+          "sina",
+          "pona"
+        ]
+      ],
+      "formattedSolution": "sina pona",
+      "id": "7f564aa7305b",
+      "priority": 2,
+      "group": "a23c2abc583f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "sina",
+          "definition": "you"
+        },
+        {
+          "word": "pona",
+          "definition": "good\nsimple"
+        }
+      ],
+      "chips": [
+        "You",
+        "are",
+        "good",
+        "am",
+        "I"
+      ],
+      "solutions": [
+        [
+          "You",
+          "are",
+          "good"
+        ]
+      ],
+      "formattedSolution": "You are good",
+      "id": "3c2841865db2",
+      "priority": 2,
+      "group": "a23c2abc583f"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "mi",
+      "meaningInSourceLanguage": "me",
+      "id": "379f076df694",
+      "priority": 0,
+      "group": "f505cd37593c"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "mi"
+      ],
+      "phrase": [
+        {
+          "word": "me",
+          "definition": "mi"
+        }
+      ],
+      "id": "c643d4f006ba",
+      "priority": 1,
+      "group": "f505cd37593c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi",
+      "meaning": "me",
+      "audio": "cb8fbc8f59847386faaad04cfb94cd3c133509c2b06326b39c61546188447b49",
+      "id": "79a0d7bfe662",
+      "priority": 1,
+      "group": "f505cd37593c"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "sina",
+      "meaningInSourceLanguage": "you",
+      "id": "7da471312b13",
+      "priority": 0,
+      "group": "d6504c6551ff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "sina"
+      ],
+      "phrase": [
+        {
+          "word": "you",
+          "definition": "sina"
+        }
+      ],
+      "id": "e31a9e6a4e72",
+      "priority": 1,
+      "group": "d6504c6551ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "sina",
+      "meaning": "you",
+      "audio": "0604c21e12fc54bff241e46830292aa7a1cca4be8d90492f4c4d19d9714d9365",
+      "id": "dc87638b9360",
+      "priority": 1,
+      "group": "d6504c6551ff"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "toki",
+      "meaningInSourceLanguage": "speech",
+      "id": "c538c9f94fbe",
+      "priority": 0,
+      "group": "056f028fef63"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "toki"
+      ],
+      "phrase": [
+        {
+          "word": "speech",
+          "definition": "toki"
+        }
+      ],
+      "id": "284a58680821",
+      "priority": 1,
+      "group": "056f028fef63"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toki",
+      "meaning": "speech",
+      "audio": "d35b5bcae813c295fa54514ba82beaa4eeeae35ff804830826e91c51ec542066",
+      "id": "44030bd2020b",
+      "priority": 1,
+      "group": "056f028fef63"
+    },
+    {
+      "type": "cards",
+      "pictures": null,
+      "formInTargetLanguage": "pona",
+      "meaningInSourceLanguage": "good",
+      "id": "2f799c502b65",
+      "priority": 0,
+      "group": "11d26c39ca4a"
+    },
+    {
+      "type": "shortInput",
+      "pictures": null,
+      "formInTargetLanguage": [
+        "pona"
+      ],
+      "phrase": [
+        {
+          "word": "good",
+          "definition": "pona"
+        }
+      ],
+      "id": "1c09a82b33f7",
+      "priority": 1,
+      "group": "11d26c39ca4a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pona",
+      "meaning": "good",
+      "audio": "795e9fc9b28f06b2af79f0304b829daa514747a88c75fffa954e016d118e6b31",
+      "id": "678620193afb",
+      "priority": 1,
+      "group": "11d26c39ca4a"
+    }
+  ]
+}

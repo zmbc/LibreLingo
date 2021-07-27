@@ -1,0 +1,82 @@
+Skill:
+  Name: Basics II
+  Id: 2
+
+New words: []
+
+Phrases:
+  - Phrase: ilo
+    Translation: tool
+
+  - Phrase: ilo
+    Translation: device
+
+  - Phrase: ijo
+    Translation: thing
+
+  - Phrase: ijo
+    Translation: object
+
+  - Phrase: ijo
+    Translation: stuff
+
+  - Phrase: pali
+    Translation: make
+
+  - Phrase: pali
+    Translation: work
+
+  - Phrase: pali
+    Translation: job
+
+  - Phrase: pali
+    Translation: do
+
+  - Phrase: suli
+    Translation: big
+
+  - Phrase: suli
+    Translation: important
+
+  - Phrase: suli
+    Translation: old
+
+  - Phrase: ona
+    Translation: they
+
+  - Phrase: ona
+    Translation: them
+
+  - Phrase: ona
+    Translation: it
+
+  - Phrase: ona
+    Translation: he
+
+  - Phrase: ona
+    Translation: she
+
+Mini-dictionary:
+  toki pona:
+    - ijo: thing
+    - ilo: tool
+    - pali:
+      - make
+      - work
+      - job
+      - do
+    - suli:
+      - big
+      - important
+      - old
+    - ona:
+      - they
+      - them
+      - it
+
+  English:
+    - thing: ijo
+    - tool: ilo
+    - pali: make
+    - suli: big
+    - ona: they

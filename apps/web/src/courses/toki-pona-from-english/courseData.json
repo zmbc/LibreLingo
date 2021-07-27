@@ -14,24 +14,50 @@
       "title": "Basics",
       "skills": [
         {
-          "imageSet": [
-            "bird3",
-            "cat3",
-            "fish2"
-          ],
-          "introduction": "animals.md",
           "summary": [
-            "soweli",
-            "waso",
-            "kala",
-            "ni li kala",
-            "ona li soweli",
-            "waso li pona"
+            "mi",
+            "mi",
+            "sina",
+            "toki",
+            "toki",
+            "toki",
+            "pona",
+            "pona",
+            "toki!",
+            "mi toki",
+            "sina toki",
+            "mi pona",
+            "sina pona"
           ],
-          "practiceHref": "animals",
+          "practiceHref": "basics-1",
+          "id": "569673478a3d",
+          "title": "Basics 1",
+          "levels": 4
+        },
+        {
+          "summary": [
+            "ilo",
+            "ilo",
+            "ijo",
+            "ijo",
+            "ijo",
+            "pali",
+            "pali",
+            "pali",
+            "pali",
+            "suli",
+            "suli",
+            "suli",
+            "ona",
+            "ona",
+            "ona",
+            "ona",
+            "ona"
+          ],
+          "practiceHref": "basics-ii",
           "id": "38c2ea1c36d2",
-          "title": "Animals",
-          "levels": 2
+          "title": "Basics II",
+          "levels": 4
         }
       ]
     }

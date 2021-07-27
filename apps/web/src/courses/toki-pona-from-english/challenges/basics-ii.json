@@ -1,0 +1,295 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 4,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "ilo",
+      "meaningInSourceLanguage": "tool",
+      "id": "aea8107b33a8",
+      "priority": 0,
+      "group": "13d3bfae3e38"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ilo",
+      "meaning": "tool",
+      "audio": "440e3500715919bd9c9f92fe3703b404c6b70c6dd4857e6d4de49581abff324f",
+      "id": "df3748fb0c14",
+      "priority": 1,
+      "group": "13d3bfae3e38"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ilo",
+      "meaningInSourceLanguage": "device",
+      "id": "5e1b682744ff",
+      "priority": 0,
+      "group": "eb7f23d6463d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ilo",
+      "meaning": "device",
+      "audio": "440e3500715919bd9c9f92fe3703b404c6b70c6dd4857e6d4de49581abff324f",
+      "id": "59eaee631cd7",
+      "priority": 1,
+      "group": "eb7f23d6463d"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ijo",
+      "meaningInSourceLanguage": "thing",
+      "id": "54a1a2d68b3d",
+      "priority": 0,
+      "group": "a84897c1ee91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ijo",
+      "meaning": "thing",
+      "audio": "b1655ffcbb9961f416fb4c901f912eab1ebed3dd27770bfff030d6f51887769b",
+      "id": "e36a7c538938",
+      "priority": 1,
+      "group": "a84897c1ee91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ijo",
+      "meaningInSourceLanguage": "object",
+      "id": "16bdeb2298dc",
+      "priority": 0,
+      "group": "44fdd68518f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ijo",
+      "meaning": "object",
+      "audio": "b1655ffcbb9961f416fb4c901f912eab1ebed3dd27770bfff030d6f51887769b",
+      "id": "f7677430b361",
+      "priority": 1,
+      "group": "44fdd68518f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ijo",
+      "meaningInSourceLanguage": "stuff",
+      "id": "82b6e1897f45",
+      "priority": 0,
+      "group": "eaa3df8694bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ijo",
+      "meaning": "stuff",
+      "audio": "b1655ffcbb9961f416fb4c901f912eab1ebed3dd27770bfff030d6f51887769b",
+      "id": "2d5ba818f2e1",
+      "priority": 1,
+      "group": "eaa3df8694bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "make",
+      "id": "bbcc3b6bdecc",
+      "priority": 0,
+      "group": "e23efec90b24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "make",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "5ed5e0349b4c",
+      "priority": 1,
+      "group": "e23efec90b24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "work",
+      "id": "a83d07cacbc0",
+      "priority": 0,
+      "group": "7e716c7460e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "work",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "4f4779d74222",
+      "priority": 1,
+      "group": "7e716c7460e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "job",
+      "id": "64c1f44775c5",
+      "priority": 0,
+      "group": "bcef0f03862e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "job",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "5956f843cab9",
+      "priority": 1,
+      "group": "bcef0f03862e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "do",
+      "id": "24ee8cb9738c",
+      "priority": 0,
+      "group": "b42d46fdff11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "do",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "33ef8a8f2d55",
+      "priority": 1,
+      "group": "b42d46fdff11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suli",
+      "meaningInSourceLanguage": "big",
+      "id": "80e5dc91f79d",
+      "priority": 0,
+      "group": "4d6492f16b9f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suli",
+      "meaning": "big",
+      "audio": "d956ed31a3f7b7958c6f02300a4281b37e004594985d151c8f4636df742efda2",
+      "id": "3585ac68aa84",
+      "priority": 1,
+      "group": "4d6492f16b9f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suli",
+      "meaningInSourceLanguage": "important",
+      "id": "45a9b47ba016",
+      "priority": 0,
+      "group": "b71d3bf6bf87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suli",
+      "meaning": "important",
+      "audio": "d956ed31a3f7b7958c6f02300a4281b37e004594985d151c8f4636df742efda2",
+      "id": "8772795bb9d2",
+      "priority": 1,
+      "group": "b71d3bf6bf87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suli",
+      "meaningInSourceLanguage": "old",
+      "id": "5cc603e52e67",
+      "priority": 0,
+      "group": "e0787e546af5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suli",
+      "meaning": "old",
+      "audio": "d956ed31a3f7b7958c6f02300a4281b37e004594985d151c8f4636df742efda2",
+      "id": "4759ef20adf5",
+      "priority": 1,
+      "group": "e0787e546af5"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "they",
+      "id": "adbb1193636b",
+      "priority": 0,
+      "group": "9fdd8fefc7ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "they",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "3e7235b2e830",
+      "priority": 1,
+      "group": "9fdd8fefc7ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "them",
+      "id": "98a0b733ffe3",
+      "priority": 0,
+      "group": "ef11eb42fdb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "them",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "da0c2945f080",
+      "priority": 1,
+      "group": "ef11eb42fdb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "it",
+      "id": "14233bacda59",
+      "priority": 0,
+      "group": "d76169338242"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "it",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "8d448ed7dbf9",
+      "priority": 1,
+      "group": "d76169338242"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "he",
+      "id": "f5acef1e63c0",
+      "priority": 0,
+      "group": "ffbe5fa1b903"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "he",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "9a6fb0eecfce",
+      "priority": 1,
+      "group": "ffbe5fa1b903"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "she",
+      "id": "a2e4d7e99b3e",
+      "priority": 0,
+      "group": "6744d29d1ae6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "she",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "8fef8030dfa3",
+      "priority": 1,
+      "group": "6744d29d1ae6"
+    }
+  ]
+}

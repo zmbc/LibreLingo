@@ -2,4 +2,5 @@ Module:
   Name: "Basics"
 
 Skills:
-  - animals.yaml
+  - basics1.yaml
+  - basics2.yaml

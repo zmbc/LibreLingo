@@ -1,0 +1,68 @@
+Skill:
+  Name: Basics 1
+  Id: 1
+
+New words: []
+
+Phrases:
+  - Phrase: mi
+    Translation: me
+
+  - Phrase: mi
+    Translation: I
+
+  - Phrase: sina
+    Translation: you
+
+  - Phrase: toki
+    Translation: speech
+
+  - Phrase: toki
+    Translation: talk
+
+  - Phrase: toki
+    Translation: language
+
+  - Phrase: pona
+    Translation: good
+
+  - Phrase: pona
+    Translation: simple
+
+  - Phrase: toki!
+    Translation: hello!
+
+  - Phrase: mi toki
+    Translation: I speak
+
+  - Phrase: sina toki
+    Translation: You speak
+
+  - Phrase: mi pona
+    Translation: I am good
+
+  - Phrase: sina pona
+    Translation: You are good
+
+Mini-dictionary:
+  toki pona:
+    - mi:
+      - me
+      - I
+    - sina: you
+    - toki:
+      - speech
+      - language
+      - talk
+      - hello
+    - pona:
+      - good
+      - simple
+  English:
+    - me: mi
+    - I: mi
+    - am: "-"
+    - are: "-"
+    - you: sina
+    - speak: toki
+    - good: pona
