@@ -1,0 +1,1625 @@
+{
+  "id": "38c2ea1c36d2",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "make",
+      "id": "bbcc3b6bdecc",
+      "priority": 0,
+      "group": "e23efec90b24"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "make",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "5ed5e0349b4c",
+      "priority": 1,
+      "group": "e23efec90b24"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "work",
+      "id": "a83d07cacbc0",
+      "priority": 0,
+      "group": "7e716c7460e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "work",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "4f4779d74222",
+      "priority": 1,
+      "group": "7e716c7460e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "job",
+      "id": "64c1f44775c5",
+      "priority": 0,
+      "group": "bcef0f03862e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "job",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "5956f843cab9",
+      "priority": 1,
+      "group": "bcef0f03862e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pali",
+      "meaningInSourceLanguage": "do",
+      "id": "24ee8cb9738c",
+      "priority": 0,
+      "group": "b42d46fdff11"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pali",
+      "meaning": "do",
+      "audio": "8537a7f74e5026d1461f70927645c5e4e1fbba0949400639963936bb56918a14",
+      "id": "33ef8a8f2d55",
+      "priority": 1,
+      "group": "b42d46fdff11"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "they",
+      "id": "adbb1193636b",
+      "priority": 0,
+      "group": "9fdd8fefc7ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "they",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "3e7235b2e830",
+      "priority": 1,
+      "group": "9fdd8fefc7ac"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "them",
+      "id": "98a0b733ffe3",
+      "priority": 0,
+      "group": "ef11eb42fdb9"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "them",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "da0c2945f080",
+      "priority": 1,
+      "group": "ef11eb42fdb9"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "it",
+      "id": "14233bacda59",
+      "priority": 0,
+      "group": "d76169338242"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "it",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "8d448ed7dbf9",
+      "priority": 1,
+      "group": "d76169338242"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "he",
+      "id": "f5acef1e63c0",
+      "priority": 0,
+      "group": "ffbe5fa1b903"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "he",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "9a6fb0eecfce",
+      "priority": 1,
+      "group": "ffbe5fa1b903"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona",
+      "meaningInSourceLanguage": "she",
+      "id": "a2e4d7e99b3e",
+      "priority": 0,
+      "group": "6744d29d1ae6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona",
+      "meaning": "she",
+      "audio": "5e7ed217d44c93f8d1647bd1ed74b9ad46c78011bc1069ba22f3e86674ad1b78",
+      "id": "8fef8030dfa3",
+      "priority": 1,
+      "group": "6744d29d1ae6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li pali",
+      "meaningInSourceLanguage": "They work",
+      "id": "ddf0ed4022b5",
+      "priority": 0,
+      "group": "c8a89d5675df"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li pali",
+      "meaning": "They work",
+      "audio": "5ff6fcc8a1d2ba87eb3eecb4a00659e24d108c0e52d9d85be2420b9a3bf78bb2",
+      "id": "a1358e517d9f",
+      "priority": 1,
+      "group": "c8a89d5675df"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "ona"
+        },
+        {
+          "word": "work",
+          "definition": "pali"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "pali",
+        "ni",
+        "la"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "tenpo",
+          "ni",
+          "la",
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "ni"
+        ],
+        [
+          "tenpo",
+          "lon",
+          "la",
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "lon"
+        ],
+        [
+          "ona",
+          "mute",
+          "li",
+          "pali"
+        ],
+        [
+          "tenpo",
+          "ni",
+          "la",
+          "ona",
+          "mute",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "mute",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "ni"
+        ],
+        [
+          "tenpo",
+          "lon",
+          "la",
+          "ona",
+          "mute",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "mute",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "lon"
+        ]
+      ],
+      "formattedSolution": "ona li pali",
+      "id": "ee3ea3cc5da1",
+      "priority": 2,
+      "group": "c8a89d5675df"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "pali",
+          "definition": "do\njob\nmake\nwork"
+        }
+      ],
+      "chips": [
+        "They",
+        "work",
+        "they",
+        "we"
+      ],
+      "solutions": [
+        [
+          "They",
+          "work"
+        ],
+        [
+          "He",
+          "works"
+        ],
+        [
+          "She",
+          "works"
+        ],
+        [
+          "It",
+          "works"
+        ],
+        [
+          "They",
+          "are",
+          "working"
+        ],
+        [
+          "He",
+          "is",
+          "working"
+        ],
+        [
+          "She",
+          "is",
+          "working"
+        ],
+        [
+          "It",
+          "is",
+          "working"
+        ],
+        [
+          "They",
+          "worked"
+        ],
+        [
+          "He",
+          "worked"
+        ],
+        [
+          "She",
+          "worked"
+        ],
+        [
+          "It",
+          "worked"
+        ],
+        [
+          "They",
+          "will",
+          "work"
+        ],
+        [
+          "He",
+          "will",
+          "work"
+        ],
+        [
+          "She",
+          "will",
+          "work"
+        ],
+        [
+          "It",
+          "will",
+          "work"
+        ],
+        [
+          "It",
+          "is",
+          "work"
+        ],
+        [
+          "They",
+          "are",
+          "work"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "job"
+        ],
+        [
+          "They",
+          "are",
+          "jobs"
+        ]
+      ],
+      "formattedSolution": "They work",
+      "id": "2743c2118f97",
+      "priority": 2,
+      "group": "c8a89d5675df"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li pali",
+      "meaningInSourceLanguage": "She worked",
+      "id": "e16911abcd02",
+      "priority": 0,
+      "group": "f4d31a5048dd"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li pali",
+      "meaning": "She worked",
+      "audio": "5ff6fcc8a1d2ba87eb3eecb4a00659e24d108c0e52d9d85be2420b9a3bf78bb2",
+      "id": "24e7e671f4bc",
+      "priority": 1,
+      "group": "f4d31a5048dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "She",
+          "definition": "ona"
+        },
+        {
+          "word": "worked",
+          "definition": "pali"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "pali",
+        "ni",
+        "la"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "tenpo",
+          "pini",
+          "la",
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "pini"
+        ]
+      ],
+      "formattedSolution": "ona li pali",
+      "id": "19a579c206d2",
+      "priority": 2,
+      "group": "f4d31a5048dd"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "pali",
+          "definition": "do\njob\nmake\nwork"
+        }
+      ],
+      "chips": [
+        "She",
+        "worked",
+        "we",
+        "work"
+      ],
+      "solutions": [
+        [
+          "She",
+          "worked"
+        ],
+        [
+          "He",
+          "works"
+        ],
+        [
+          "She",
+          "works"
+        ],
+        [
+          "It",
+          "works"
+        ],
+        [
+          "They",
+          "are",
+          "working"
+        ],
+        [
+          "He",
+          "is",
+          "working"
+        ],
+        [
+          "She",
+          "is",
+          "working"
+        ],
+        [
+          "It",
+          "is",
+          "working"
+        ],
+        [
+          "They",
+          "worked"
+        ],
+        [
+          "He",
+          "worked"
+        ],
+        [
+          "They",
+          "work"
+        ],
+        [
+          "It",
+          "worked"
+        ],
+        [
+          "They",
+          "will",
+          "work"
+        ],
+        [
+          "He",
+          "will",
+          "work"
+        ],
+        [
+          "She",
+          "will",
+          "work"
+        ],
+        [
+          "It",
+          "will",
+          "work"
+        ],
+        [
+          "It",
+          "is",
+          "work"
+        ],
+        [
+          "They",
+          "are",
+          "work"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "job"
+        ],
+        [
+          "They",
+          "are",
+          "jobs"
+        ]
+      ],
+      "formattedSolution": "She worked",
+      "id": "cf5555a87ae7",
+      "priority": 2,
+      "group": "f4d31a5048dd"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li pali",
+      "meaningInSourceLanguage": "It will work",
+      "id": "56a4cf737a67",
+      "priority": 0,
+      "group": "210251ca40e2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li pali",
+      "meaning": "It will work",
+      "audio": "5ff6fcc8a1d2ba87eb3eecb4a00659e24d108c0e52d9d85be2420b9a3bf78bb2",
+      "id": "256feb0c076d",
+      "priority": 1,
+      "group": "210251ca40e2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ona"
+        },
+        {
+          "word": "will work",
+          "definition": "pali"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "pali",
+        "ni",
+        "la"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "tenpo",
+          "kama",
+          "la",
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "kama"
+        ]
+      ],
+      "formattedSolution": "ona li pali",
+      "id": "4c7ca1b4a3a1",
+      "priority": 2,
+      "group": "210251ca40e2"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "pali",
+          "definition": "do\njob\nmake\nwork"
+        }
+      ],
+      "chips": [
+        "It",
+        "will",
+        "work",
+        "we",
+        "it"
+      ],
+      "solutions": [
+        [
+          "It",
+          "will",
+          "work"
+        ],
+        [
+          "He",
+          "works"
+        ],
+        [
+          "She",
+          "works"
+        ],
+        [
+          "It",
+          "works"
+        ],
+        [
+          "They",
+          "are",
+          "working"
+        ],
+        [
+          "He",
+          "is",
+          "working"
+        ],
+        [
+          "She",
+          "is",
+          "working"
+        ],
+        [
+          "It",
+          "is",
+          "working"
+        ],
+        [
+          "They",
+          "worked"
+        ],
+        [
+          "He",
+          "worked"
+        ],
+        [
+          "They",
+          "work"
+        ],
+        [
+          "It",
+          "worked"
+        ],
+        [
+          "They",
+          "will",
+          "work"
+        ],
+        [
+          "He",
+          "will",
+          "work"
+        ],
+        [
+          "She",
+          "will",
+          "work"
+        ],
+        [
+          "She",
+          "worked"
+        ],
+        [
+          "It",
+          "is",
+          "work"
+        ],
+        [
+          "They",
+          "are",
+          "work"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "job"
+        ],
+        [
+          "They",
+          "are",
+          "jobs"
+        ]
+      ],
+      "formattedSolution": "It will work",
+      "id": "b7e2206f2ed5",
+      "priority": 2,
+      "group": "210251ca40e2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li toki",
+      "meaningInSourceLanguage": "He will talk",
+      "id": "52e528cc6adf",
+      "priority": 0,
+      "group": "a68fb1ac1fbc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li toki",
+      "meaning": "He will talk",
+      "audio": "2715f9e7c4c90f743382b909b8b2bc7dc5d43ea5a85986f0d0931844a3794aeb",
+      "id": "b697f2db662d",
+      "priority": 1,
+      "group": "a68fb1ac1fbc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "He",
+          "definition": "ona"
+        },
+        {
+          "word": "will talk",
+          "definition": "toki"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "toki",
+        "ni",
+        "mi"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "toki"
+        ],
+        [
+          "tenpo",
+          "kama",
+          "la",
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "kama"
+        ]
+      ],
+      "formattedSolution": "ona li toki",
+      "id": "b06a630576a4",
+      "priority": 2,
+      "group": "a68fb1ac1fbc"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "toki",
+          "definition": "Hello!"
+        }
+      ],
+      "chips": [
+        "He",
+        "will",
+        "talk",
+        "we",
+        "me"
+      ],
+      "solutions": [
+        [
+          "He",
+          "will",
+          "talk"
+        ],
+        [
+          "He",
+          "talks"
+        ],
+        [
+          "She",
+          "talks"
+        ],
+        [
+          "It",
+          "talks"
+        ],
+        [
+          "They",
+          "talk"
+        ],
+        [
+          "They",
+          "are",
+          "talking"
+        ],
+        [
+          "He",
+          "is",
+          "talking"
+        ],
+        [
+          "She",
+          "is",
+          "talking"
+        ],
+        [
+          "It",
+          "is",
+          "talking"
+        ],
+        [
+          "They",
+          "talked"
+        ],
+        [
+          "He",
+          "talked"
+        ],
+        [
+          "She",
+          "talked"
+        ],
+        [
+          "It",
+          "talked"
+        ],
+        [
+          "They",
+          "will",
+          "talk"
+        ],
+        [
+          "She",
+          "will",
+          "talk"
+        ],
+        [
+          "It",
+          "will",
+          "talk"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "language"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "sentence"
+        ],
+        [
+          "They",
+          "are",
+          "languages"
+        ],
+        [
+          "They",
+          "are",
+          "sentences"
+        ]
+      ],
+      "formattedSolution": "He will talk",
+      "id": "73b58fa3ccfa",
+      "priority": 2,
+      "group": "a68fb1ac1fbc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li toki",
+      "meaningInSourceLanguage": "It talked",
+      "id": "1b0d79a886ad",
+      "priority": 0,
+      "group": "ee7bd47d7882"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li toki",
+      "meaning": "It talked",
+      "audio": "2715f9e7c4c90f743382b909b8b2bc7dc5d43ea5a85986f0d0931844a3794aeb",
+      "id": "687b7eaec61a",
+      "priority": 1,
+      "group": "ee7bd47d7882"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ona"
+        },
+        {
+          "word": "talked",
+          "definition": "toki"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "toki",
+        "ni",
+        "mi"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "toki"
+        ],
+        [
+          "tenpo",
+          "pini",
+          "la",
+          "ona",
+          "li",
+          "pali"
+        ],
+        [
+          "ona",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "pini"
+        ]
+      ],
+      "formattedSolution": "ona li toki",
+      "id": "a53e006eb525",
+      "priority": 2,
+      "group": "ee7bd47d7882"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "toki",
+          "definition": "Hello!"
+        }
+      ],
+      "chips": [
+        "It",
+        "talked",
+        "talk",
+        "me"
+      ],
+      "solutions": [
+        [
+          "It",
+          "talked"
+        ],
+        [
+          "They",
+          "talk"
+        ],
+        [
+          "He",
+          "talks"
+        ],
+        [
+          "She",
+          "talks"
+        ],
+        [
+          "It",
+          "talks"
+        ],
+        [
+          "They",
+          "are",
+          "talking"
+        ],
+        [
+          "He",
+          "is",
+          "talking"
+        ],
+        [
+          "She",
+          "is",
+          "talking"
+        ],
+        [
+          "It",
+          "is",
+          "talking"
+        ],
+        [
+          "They",
+          "talked"
+        ],
+        [
+          "He",
+          "talked"
+        ],
+        [
+          "She",
+          "talked"
+        ],
+        [
+          "They",
+          "will",
+          "talk"
+        ],
+        [
+          "He",
+          "will",
+          "talk"
+        ],
+        [
+          "She",
+          "will",
+          "talk"
+        ],
+        [
+          "It",
+          "will",
+          "talk"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "language"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "sentence"
+        ],
+        [
+          "They",
+          "are",
+          "languages"
+        ],
+        [
+          "They",
+          "are",
+          "sentences"
+        ]
+      ],
+      "formattedSolution": "It talked",
+      "id": "e30e6a9c6766",
+      "priority": 2,
+      "group": "ee7bd47d7882"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mi pali",
+      "meaningInSourceLanguage": "I work",
+      "id": "1cf7e12e4367",
+      "priority": 0,
+      "group": "77d838b5b781"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi pali",
+      "meaning": "I work",
+      "audio": "819e95b8d890434821aafd5ceaaadae49202e21619da9e3dcd429096f6c57b92",
+      "id": "0252004894c7",
+      "priority": 1,
+      "group": "77d838b5b781"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "mi"
+        },
+        {
+          "word": "work",
+          "definition": "pali"
+        }
+      ],
+      "chips": [
+        "mi",
+        "pali",
+        "li",
+        "ni"
+      ],
+      "solutions": [
+        [
+          "mi",
+          "pali"
+        ],
+        [
+          "tenpo",
+          "ni",
+          "la",
+          "mi",
+          "pali"
+        ],
+        [
+          "mi",
+          "pali",
+          "lon",
+          "tenpo",
+          "ni"
+        ],
+        [
+          "tenpo",
+          "lon",
+          "la",
+          "mi",
+          "pali"
+        ],
+        [
+          "mi",
+          "pali",
+          "lon",
+          "tenpo",
+          "lon"
+        ]
+      ],
+      "formattedSolution": "mi pali",
+      "id": "533e502506fe",
+      "priority": 2,
+      "group": "77d838b5b781"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "mi",
+          "definition": "I\nme"
+        },
+        {
+          "word": "pali",
+          "definition": "do\njob\nmake\nwork"
+        }
+      ],
+      "chips": [
+        "I",
+        "work",
+        "we",
+        "do"
+      ],
+      "solutions": [
+        [
+          "I",
+          "work"
+        ],
+        [
+          "We",
+          "work"
+        ]
+      ],
+      "formattedSolution": "I work",
+      "id": "9ae413c2f23c",
+      "priority": 2,
+      "group": "77d838b5b781"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mi pali",
+      "meaningInSourceLanguage": "We work",
+      "id": "5726bb628b68",
+      "priority": 0,
+      "group": "039341541663"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi pali",
+      "meaning": "We work",
+      "audio": "819e95b8d890434821aafd5ceaaadae49202e21619da9e3dcd429096f6c57b92",
+      "id": "f8e4bcf52fed",
+      "priority": 1,
+      "group": "039341541663"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "We",
+          "definition": "mi\nmi mute"
+        },
+        {
+          "word": "work",
+          "definition": "pali"
+        }
+      ],
+      "chips": [
+        "mi",
+        "pali",
+        "li",
+        "ni"
+      ],
+      "solutions": [
+        [
+          "mi",
+          "pali"
+        ],
+        [
+          "tenpo",
+          "ni",
+          "la",
+          "mi",
+          "pali"
+        ],
+        [
+          "mi",
+          "pali",
+          "lon",
+          "tenpo",
+          "ni"
+        ],
+        [
+          "tenpo",
+          "lon",
+          "la",
+          "mi",
+          "pali"
+        ],
+        [
+          "mi",
+          "pali",
+          "lon",
+          "tenpo",
+          "lon"
+        ],
+        [
+          "tenpo",
+          "ni",
+          "la",
+          "mi",
+          "mute",
+          "li",
+          "pali"
+        ],
+        [
+          "mi",
+          "mute",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "ni"
+        ],
+        [
+          "tenpo",
+          "lon",
+          "la",
+          "mi",
+          "mute",
+          "li",
+          "pali"
+        ],
+        [
+          "mi",
+          "mute",
+          "li",
+          "pali",
+          "lon",
+          "tenpo",
+          "lon"
+        ]
+      ],
+      "formattedSolution": "mi pali",
+      "id": "249a6c66313b",
+      "priority": 2,
+      "group": "039341541663"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "mi",
+          "definition": "I\nme"
+        },
+        {
+          "word": "pali",
+          "definition": "do\njob\nmake\nwork"
+        }
+      ],
+      "chips": [
+        "We",
+        "work",
+        "we",
+        "me"
+      ],
+      "solutions": [
+        [
+          "We",
+          "work"
+        ],
+        [
+          "I",
+          "work"
+        ]
+      ],
+      "formattedSolution": "We work",
+      "id": "627c60573632",
+      "priority": 2,
+      "group": "039341541663"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "horse2.jpg",
+        "goat2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": "soweli",
+      "meaningInSourceLanguage": "land mammal",
+      "id": "921a6828c696",
+      "priority": 0,
+      "group": "d9184f620721"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "horse2.jpg",
+        "goat2.jpg",
+        "lion3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "soweli"
+      ],
+      "phrase": [
+        {
+          "word": "land mammal",
+          "definition": "soweli"
+        }
+      ],
+      "id": "47470fdc7d7e",
+      "priority": 1,
+      "group": "d9184f620721"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli",
+      "meaning": "land mammal",
+      "audio": "0c845d712946d4ffa0865fecb2cf64e51fca405117fd8b75591368026b43e4d4",
+      "id": "4ca5d7754482",
+      "priority": 1,
+      "group": "d9184f620721"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cow1.jpg",
+        "cow2.jpg",
+        "cow3.jpg"
+      ],
+      "formInTargetLanguage": "soweli",
+      "meaningInSourceLanguage": "cow",
+      "id": "ebfe3364ba58",
+      "priority": 0,
+      "group": "c76789ffe3ff"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cow1.jpg",
+        "cow2.jpg",
+        "cow3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "soweli"
+      ],
+      "phrase": [
+        {
+          "word": "cow",
+          "definition": "soweli"
+        }
+      ],
+      "id": "65347f5583e0",
+      "priority": 1,
+      "group": "c76789ffe3ff"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli",
+      "meaning": "cow",
+      "audio": "0c845d712946d4ffa0865fecb2cf64e51fca405117fd8b75591368026b43e4d4",
+      "id": "0a17306a026b",
+      "priority": 1,
+      "group": "c76789ffe3ff"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": "soweli",
+      "meaningInSourceLanguage": "cat",
+      "id": "24bad15da491",
+      "priority": 0,
+      "group": "f5376c8af72e"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "cat1.jpg",
+        "cat2.jpg",
+        "cat3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "soweli"
+      ],
+      "phrase": [
+        {
+          "word": "cat",
+          "definition": "soweli"
+        }
+      ],
+      "id": "4cba8787ff3a",
+      "priority": 1,
+      "group": "f5376c8af72e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli",
+      "meaning": "cat",
+      "audio": "0c845d712946d4ffa0865fecb2cf64e51fca405117fd8b75591368026b43e4d4",
+      "id": "b6daebe8f63e",
+      "priority": 1,
+      "group": "f5376c8af72e"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": "soweli",
+      "meaningInSourceLanguage": "dog",
+      "id": "0b0c53459cf9",
+      "priority": 0,
+      "group": "bfc15f31a8d5"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "dog1.jpg",
+        "dog2.jpg",
+        "dog3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "soweli"
+      ],
+      "phrase": [
+        {
+          "word": "dog",
+          "definition": "soweli"
+        }
+      ],
+      "id": "a532e7ed5cc9",
+      "priority": 1,
+      "group": "bfc15f31a8d5"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli",
+      "meaning": "dog",
+      "audio": "0c845d712946d4ffa0865fecb2cf64e51fca405117fd8b75591368026b43e4d4",
+      "id": "b9a836960048",
+      "priority": 1,
+      "group": "bfc15f31a8d5"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "elephant1.jpg",
+        "elephant2.jpg",
+        "elephant3.jpg"
+      ],
+      "formInTargetLanguage": "soweli",
+      "meaningInSourceLanguage": "elephant",
+      "id": "3d5f77feaf38",
+      "priority": 0,
+      "group": "39e371b43017"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "elephant1.jpg",
+        "elephant2.jpg",
+        "elephant3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "soweli"
+      ],
+      "phrase": [
+        {
+          "word": "elephant",
+          "definition": "soweli"
+        }
+      ],
+      "id": "9f9dab7daf9a",
+      "priority": 1,
+      "group": "39e371b43017"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli",
+      "meaning": "elephant",
+      "audio": "0c845d712946d4ffa0865fecb2cf64e51fca405117fd8b75591368026b43e4d4",
+      "id": "9cf93b5356e6",
+      "priority": 1,
+      "group": "39e371b43017"
+    }
+  ]
+}

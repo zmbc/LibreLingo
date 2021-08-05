@@ -1,25 +1,44 @@
 Skill:
-  Name: Basics II
+  Name: Basics 2
   Id: 2
 
-New words: []
+New words:
+  - Word: soweli
+    Translation: "{land mammal}"
+    Images:
+      - horse2
+      - goat2
+      - lion3
+
+  - Word: soweli
+    Translation: cow
+    Images:
+      - cow1
+      - cow2
+      - cow3
+
+  - Word: soweli
+    Translation: cat
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: soweli
+    Translation: dog
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: soweli
+    Translation: elephant
+    Images:
+      - elephant1
+      - elephant2
+      - elephant3
 
 Phrases:
-  - Phrase: ilo
-    Translation: tool
-
-  - Phrase: ilo
-    Translation: device
-
-  - Phrase: ijo
-    Translation: thing
-
-  - Phrase: ijo
-    Translation: object
-
-  - Phrase: ijo
-    Translation: stuff
-
   - Phrase: pali
     Translation: make
 
@@ -31,15 +50,6 @@ Phrases:
 
   - Phrase: pali
     Translation: do
-
-  - Phrase: suli
-    Translation: big
-
-  - Phrase: suli
-    Translation: important
-
-  - Phrase: suli
-    Translation: old
 
   - Phrase: ona
     Translation: they
@@ -56,27 +66,200 @@ Phrases:
   - Phrase: ona
     Translation: she
 
+  - Phrase: ona li pali
+    Translation: They work
+    Alternative versions:
+      # - tenpo [ni/lon] la, [ona/ona mute] li pali
+      # - [ona/ona mute] li pali lon tenpo [ni/lon]
+      - tenpo ni la, ona li pali
+      - ona li pali lon tenpo ni
+      - tenpo lon la, ona li pali
+      - ona li pali lon tenpo lon
+      - ona mute li pali
+      - tenpo ni la, ona mute li pali
+      - ona mute li pali lon tenpo ni
+      - tenpo lon la, ona mute li pali
+      - ona mute li pali lon tenpo lon
+    Alternative translations:
+      - He works
+      - She works
+      - It works
+      - They are working
+      - He is working
+      - She is working
+      - It is working
+      - They worked
+      - He worked
+      - She worked
+      - It worked
+      - They will work
+      - He will work
+      - She will work
+      - It will work
+      - It is work
+      - They are work
+      - It is a job
+      - They are jobs
+
+  - Phrase: ona li pali
+    Translation: She worked
+    Alternative versions:
+      - tenpo pini la, ona li pali
+      - ona li pali lon tenpo pini
+    Alternative translations:
+      - He works
+      - She works
+      - It works
+      - They are working
+      - He is working
+      - She is working
+      - It is working
+      - They worked
+      - He worked
+      - They work
+      - It worked
+      - They will work
+      - He will work
+      - She will work
+      - It will work
+      - It is work
+      - They are work
+      - It is a job
+      - They are jobs
+
+  - Phrase: ona li pali
+    Translation: "It {will work}"
+    Alternative versions:
+      - tenpo kama la, ona li pali
+      - ona li pali lon tenpo kama
+    Alternative translations:
+      - He works
+      - She works
+      - It works
+      - They are working
+      - He is working
+      - She is working
+      - It is working
+      - They worked
+      - He worked
+      - They work
+      - It worked
+      - They will work
+      - He will work
+      - She will work
+      - She worked
+      - It is work
+      - They are work
+      - It is a job
+      - They are jobs
+
+  - Phrase: ona li toki
+    Translation: "He {will talk}"
+    Alternative versions:
+      - tenpo kama la, ona li pali
+      - ona li pali lon tenpo kama
+    Alternative translations:
+      # - [He/She/It] [talks/is talking/talked/will talk]
+      # - They [talk/are talking/talked/will talk]
+      # Todo: add more verbs
+      - He talks
+      - She talks
+      - It talks
+      - They talk
+      - They are talking
+      - He is talking
+      - She is talking
+      - It is talking
+      - They talked
+      - He talked
+      - She talked
+      - It talked
+      - They will talk
+      - She will talk
+      - It will talk
+      - It is a language
+      - It is a sentence
+      - They are languages
+      - They are sentences
+
+  - Phrase: ona li toki
+    Translation: It talked
+    Alternative versions:
+      - tenpo pini la, ona li pali
+      - ona li pali lon tenpo pini
+    Alternative translations:
+      # - [He/She/It] [talks/is talking/talked/will talk]
+      # - They [talk/are talking/talked/will talk]
+      # Todo: add more verbs
+      - They talk
+      - He talks
+      - She talks
+      - It talks
+      - They are talking
+      - He is talking
+      - She is talking
+      - It is talking
+      - They talked
+      - He talked
+      - She talked
+      - They will talk
+      - He will talk
+      - She will talk
+      - It will talk
+      - It is a language
+      - It is a sentence
+      - They are languages
+      - They are sentences
+
+  - Phrase: mi pali
+    Translation: I work
+    Alternative versions:
+      - tenpo ni la, mi pali
+      - mi pali lon tenpo ni
+      - tenpo lon la, mi pali
+      - mi pali lon tenpo lon
+    Alternative translations:
+      - We work
+
+  - Phrase: mi pali
+    Translation: We work
+    Alternative versions:
+      - tenpo ni la, mi pali
+      - mi pali lon tenpo ni
+      - tenpo lon la, mi pali
+      - mi pali lon tenpo lon
+      - tenpo ni la, mi mute li pali
+      - mi mute li pali lon tenpo ni
+      - tenpo lon la, mi mute li pali
+      - mi mute li pali lon tenpo lon
+    Alternative translations:
+      - I work
+
 Mini-dictionary:
   toki pona:
-    - ijo: thing
-    - ilo: tool
+    - li: "-"
     - pali:
       - make
       - work
       - job
       - do
-    - suli:
-      - big
-      - important
-      - old
     - ona:
       - they
       - them
       - it
 
   English:
-    - thing: ijo
-    - tool: ilo
-    - pali: make
-    - suli: big
-    - ona: they
+    - he: ona
+    - she: ona
+    - they: ona
+    - it: ona
+    - work: pali
+    - worked: pali
+    - will work: pali
+    - talk: toki
+    - talked: toki
+    - will talk: toki
+    - we:
+      - mi
+      - mi mute
+    - land mammal: soweli

@@ -14,50 +14,63 @@
       "title": "Basics",
       "skills": [
         {
+          "introduction": "basics-1.md",
           "summary": [
+            "jan",
+            "jan",
+            "toki!",
+            "mi",
+            "mi",
             "mi",
             "mi",
             "sina",
             "toki",
             "toki",
             "toki",
+            "toki",
+            "toki",
             "pona",
             "pona",
-            "toki!",
+            "pona",
             "mi toki",
             "sina toki",
-            "mi pona",
-            "sina pona"
+            "sina pona!",
+            "jan"
           ],
           "practiceHref": "basics-1",
           "id": "569673478a3d",
           "title": "Basics 1",
-          "levels": 4
+          "levels": 5
         },
         {
+          "introduction": "basics-2.md",
           "summary": [
-            "ilo",
-            "ilo",
-            "ijo",
-            "ijo",
-            "ijo",
+            "soweli",
+            "soweli",
+            "soweli",
+            "soweli",
+            "soweli",
             "pali",
             "pali",
             "pali",
             "pali",
-            "suli",
-            "suli",
-            "suli",
             "ona",
             "ona",
             "ona",
             "ona",
-            "ona"
+            "ona",
+            "ona li pali",
+            "ona li pali",
+            "ona li pali",
+            "ona li toki",
+            "ona li toki",
+            "mi pali",
+            "mi pali"
           ],
-          "practiceHref": "basics-ii",
+          "practiceHref": "basics-2",
           "id": "38c2ea1c36d2",
-          "title": "Basics II",
-          "levels": 4
+          "title": "Basics 2",
+          "levels": 5
         }
       ]
     }

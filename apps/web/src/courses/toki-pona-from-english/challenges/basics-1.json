@@ -1,6 +1,6 @@
 {
   "id": "569673478a3d",
-  "levels": 4,
+  "levels": 5,
   "challenges": [
     {
       "type": "options",
@@ -38,6 +38,40 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "mi",
+      "meaningInSourceLanguage": "we",
+      "id": "aead5735c358",
+      "priority": 0,
+      "group": "3945f52121b0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi",
+      "meaning": "we",
+      "audio": "cb8fbc8f59847386faaad04cfb94cd3c133509c2b06326b39c61546188447b49",
+      "id": "49fa751e1af2",
+      "priority": 1,
+      "group": "3945f52121b0"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mi",
+      "meaningInSourceLanguage": "us",
+      "id": "a014b2682798",
+      "priority": 0,
+      "group": "be9295d0309a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi",
+      "meaning": "us",
+      "audio": "cb8fbc8f59847386faaad04cfb94cd3c133509c2b06326b39c61546188447b49",
+      "id": "d05210d59f23",
+      "priority": 1,
+      "group": "be9295d0309a"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "sina",
       "meaningInSourceLanguage": "you",
       "id": "8febb218c535",
@@ -69,6 +103,40 @@
       "id": "5df8b6e6aeb0",
       "priority": 1,
       "group": "cdf6b78bb9d2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toki",
+      "meaningInSourceLanguage": "communicate",
+      "id": "b842fb536fad",
+      "priority": 0,
+      "group": "61fcb3e324fb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toki",
+      "meaning": "communicate",
+      "audio": "d35b5bcae813c295fa54514ba82beaa4eeeae35ff804830826e91c51ec542066",
+      "id": "510ed952b6fa",
+      "priority": 1,
+      "group": "61fcb3e324fb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toki",
+      "meaningInSourceLanguage": "say",
+      "id": "471dc54f0961",
+      "priority": 0,
+      "group": "2f17ae4b4a9d"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toki",
+      "meaning": "say",
+      "audio": "d35b5bcae813c295fa54514ba82beaa4eeeae35ff804830826e91c51ec542066",
+      "id": "f8c188b50920",
+      "priority": 1,
+      "group": "2f17ae4b4a9d"
     },
     {
       "type": "options",
@@ -124,6 +192,23 @@
     {
       "type": "options",
       "formInTargetLanguage": "pona",
+      "meaningInSourceLanguage": "friendly",
+      "id": "5b6abf26884d",
+      "priority": 0,
+      "group": "482caad82263"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "pona",
+      "meaning": "friendly",
+      "audio": "795e9fc9b28f06b2af79f0304b829daa514747a88c75fffa954e016d118e6b31",
+      "id": "80e0c68ddb5c",
+      "priority": 1,
+      "group": "482caad82263"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "pona",
       "meaningInSourceLanguage": "simple",
       "id": "e19cdbf747ef",
       "priority": 0,
@@ -137,23 +222,6 @@
       "id": "e67e9c93e77e",
       "priority": 1,
       "group": "4f414e2cc3de"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "toki!",
-      "meaningInSourceLanguage": "hello!",
-      "id": "12291f91fa22",
-      "priority": 0,
-      "group": "fb704b938ee3"
-    },
-    {
-      "type": "listeningExercise",
-      "answer": "toki!",
-      "meaning": "hello!",
-      "audio": "64d88ba21a3ba814bc602581ef6993ebe6088efe02d53d181e2adb19521d0094",
-      "id": "394af5e1d363",
-      "priority": 1,
-      "group": "fb704b938ee3"
     },
     {
       "type": "options",
@@ -188,8 +256,8 @@
       "chips": [
         "mi",
         "toki",
-        "pali",
-        "suli"
+        "li",
+        "ni"
       ],
       "solutions": [
         [
@@ -212,14 +280,14 @@
         },
         {
           "word": "toki",
-          "definition": "hello\nlanguage\nspeech\ntalk"
+          "definition": "Hello!"
         }
       ],
       "chips": [
         "I",
         "speak",
-        "me",
-        "am"
+        "a",
+        "me"
       ],
       "solutions": [
         [
@@ -289,14 +357,14 @@
         },
         {
           "word": "toki",
-          "definition": "hello\nlanguage\nspeech\ntalk"
+          "definition": "Hello!"
         }
       ],
       "chips": [
         "You",
         "speak",
         "you",
-        "she"
+        "say"
       ],
       "solutions": [
         [
@@ -311,126 +379,35 @@
     },
     {
       "type": "options",
-      "formInTargetLanguage": "mi pona",
-      "meaningInSourceLanguage": "I am good",
-      "id": "3fc859841e81",
+      "formInTargetLanguage": "sina pona!",
+      "meaningInSourceLanguage": "Thank you!",
+      "id": "f62a13d6a083",
       "priority": 0,
-      "group": "758b00947357"
+      "group": "5b59032de513"
     },
     {
       "type": "listeningExercise",
-      "answer": "mi pona",
-      "meaning": "I am good",
-      "audio": "3d94ac94ad42f2aa10cd4ec6cea610c5ab01eb09d934a4bc33681044dc874564",
-      "id": "3db74d5a7f58",
+      "answer": "sina pona!",
+      "meaning": "Thank you!",
+      "audio": "4ff96bd3314c666ebf911cb4afbdd811d5affe5c71ce16eff5559525c620e776",
+      "id": "10bdec89ab7c",
       "priority": 1,
-      "group": "758b00947357"
+      "group": "5b59032de513"
     },
     {
       "type": "chips",
       "translatesToSourceLanguage": false,
       "phrase": [
         {
-          "word": "I",
-          "definition": "mi"
-        },
-        {
-          "word": "am",
-          "definition": "-"
-        },
-        {
-          "word": "good",
-          "definition": "pona"
-        }
-      ],
-      "chips": [
-        "mi",
-        "pona",
-        "ona",
-        "sina"
-      ],
-      "solutions": [
-        [
-          "mi",
-          "pona"
-        ]
-      ],
-      "formattedSolution": "mi pona",
-      "id": "47faeda8db64",
-      "priority": 2,
-      "group": "758b00947357"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": true,
-      "phrase": [
-        {
-          "word": "mi",
-          "definition": "I\nme"
-        },
-        {
-          "word": "pona",
-          "definition": "good\nsimple"
-        }
-      ],
-      "chips": [
-        "I",
-        "am",
-        "good",
-        "do",
-        "me"
-      ],
-      "solutions": [
-        [
-          "I",
-          "am",
-          "good"
-        ]
-      ],
-      "formattedSolution": "I am good",
-      "id": "f28757dabf24",
-      "priority": 2,
-      "group": "758b00947357"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "sina pona",
-      "meaningInSourceLanguage": "You are good",
-      "id": "08ae549d8775",
-      "priority": 0,
-      "group": "a23c2abc583f"
-    },
-    {
-      "type": "listeningExercise",
-      "answer": "sina pona",
-      "meaning": "You are good",
-      "audio": "1c5dbf548bca3e9264fdbc9b3eddccc24eac565b727681a24c3d8fac640f072b",
-      "id": "f02018e5f5b0",
-      "priority": 1,
-      "group": "a23c2abc583f"
-    },
-    {
-      "type": "chips",
-      "translatesToSourceLanguage": false,
-      "phrase": [
-        {
-          "word": "You",
-          "definition": "sina"
-        },
-        {
-          "word": "are",
-          "definition": "-"
-        },
-        {
-          "word": "good",
-          "definition": "pona"
+          "word": "Thank you!",
+          "definition": "sina pona"
         }
       ],
       "chips": [
         "sina",
         "pona",
         "ona",
-        "mi"
+        "pini"
       ],
       "solutions": [
         [
@@ -438,10 +415,10 @@
           "pona"
         ]
       ],
-      "formattedSolution": "sina pona",
-      "id": "7f564aa7305b",
+      "formattedSolution": "sina pona!",
+      "id": "3deba3b82fe7",
       "priority": 2,
-      "group": "a23c2abc583f"
+      "group": "5b59032de513"
     },
     {
       "type": "chips",
@@ -452,28 +429,169 @@
           "definition": "you"
         },
         {
-          "word": "pona",
+          "word": "pona!",
           "definition": "good\nsimple"
         }
       ],
       "chips": [
-        "You",
-        "are",
-        "good",
+        "Thank",
         "you",
-        "job"
+        "You",
+        "say"
       ],
       "solutions": [
         [
-          "You",
-          "are",
-          "good"
+          "Thank",
+          "you"
         ]
       ],
-      "formattedSolution": "You are good",
-      "id": "3c2841865db2",
+      "formattedSolution": "Thank you!",
+      "id": "b998445adc5b",
       "priority": 2,
-      "group": "a23c2abc583f"
+      "group": "5b59032de513"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jan",
+      "meaningInSourceLanguage": "somebody",
+      "id": "7e2fcb768465",
+      "priority": 0,
+      "group": "4812df6dfde0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan",
+      "meaning": "somebody",
+      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
+      "id": "086a19c02cb6",
+      "priority": 1,
+      "group": "4812df6dfde0"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "niece3.jpg",
+        "man2.jpg",
+        "woman2.jpg"
+      ],
+      "formInTargetLanguage": "jan",
+      "meaningInSourceLanguage": "person",
+      "id": "21e6c5fe05e9",
+      "priority": 0,
+      "group": "ee0d8568c624"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "niece3.jpg",
+        "man2.jpg",
+        "woman2.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jan"
+      ],
+      "phrase": [
+        {
+          "word": "person",
+          "definition": "jan"
+        }
+      ],
+      "id": "7f881d081c4a",
+      "priority": 1,
+      "group": "ee0d8568c624"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan",
+      "meaning": "person",
+      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
+      "id": "df6c9508c5be",
+      "priority": 1,
+      "group": "ee0d8568c624"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "people1.jpg",
+        "people2.jpg",
+        "family1.jpg"
+      ],
+      "formInTargetLanguage": "jan",
+      "meaningInSourceLanguage": "people",
+      "id": "112eb87cb7b0",
+      "priority": 0,
+      "group": "d98e9c031ddb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "people1.jpg",
+        "people2.jpg",
+        "family1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jan"
+      ],
+      "phrase": [
+        {
+          "word": "people",
+          "definition": "jan"
+        }
+      ],
+      "id": "480184502099",
+      "priority": 1,
+      "group": "d98e9c031ddb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan",
+      "meaning": "people",
+      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
+      "id": "2f3d22683edf",
+      "priority": 1,
+      "group": "d98e9c031ddb"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": "toki!",
+      "meaningInSourceLanguage": "Hello!",
+      "id": "4acceb83f9c1",
+      "priority": 0,
+      "group": "874a78ca56ac"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "hello1.jpg",
+        "hello2.jpg",
+        "hello3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "toki!"
+      ],
+      "phrase": [
+        {
+          "word": "Hello!",
+          "definition": "toki!"
+        }
+      ],
+      "id": "f26c14e98753",
+      "priority": 1,
+      "group": "874a78ca56ac"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toki!",
+      "meaning": "Hello!",
+      "audio": "64d88ba21a3ba814bc602581ef6993ebe6088efe02d53d181e2adb19521d0094",
+      "id": "5e6d2cc83eda",
+      "priority": 1,
+      "group": "874a78ca56ac"
     }
   ]
 }
