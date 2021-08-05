@@ -593,7 +593,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/55817894?v=4",
       "profile": "https://github.com/radmorecameron",
       "contributions": [
-        "content"
+        "content",
+        "code"
       ]
     },
     {
@@ -604,6 +605,15 @@
       "contributions": [
         "doc",
         "code"
+      ]
+    },
+    {
+      "login": "Poslovitch",
+      "name": "Florian CUNY",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20014332?v=4",
+      "profile": "https://github.com/Poslovitch",
+      "contributions": [
+        "ideas"
       ]
     }
   ],
