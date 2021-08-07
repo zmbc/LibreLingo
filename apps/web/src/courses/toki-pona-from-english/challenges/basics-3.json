@@ -1,0 +1,1446 @@
+{
+  "id": "d7279e4777cd",
+  "levels": 5,
+  "challenges": [
+    {
+      "type": "options",
+      "formInTargetLanguage": "suli",
+      "meaningInSourceLanguage": "important",
+      "id": "45a9b47ba016",
+      "priority": 0,
+      "group": "b71d3bf6bf87"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suli",
+      "meaning": "important",
+      "audio": "d956ed31a3f7b7958c6f02300a4281b37e004594985d151c8f4636df742efda2",
+      "id": "8772795bb9d2",
+      "priority": 1,
+      "group": "b71d3bf6bf87"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suwi",
+      "meaningInSourceLanguage": "sweet",
+      "id": "f8a18cba71f7",
+      "priority": 0,
+      "group": "5987c389b1cb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suwi",
+      "meaning": "sweet",
+      "audio": "ff8448b10d9152ea01ad59ecf4584d916402311324762ccf9c2a23920337d7be",
+      "id": "360b8838579a",
+      "priority": 1,
+      "group": "5987c389b1cb"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "suwi",
+      "meaningInSourceLanguage": "cute",
+      "id": "00aa87f4c0bb",
+      "priority": 0,
+      "group": "399e6b15cc4f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suwi",
+      "meaning": "cute",
+      "audio": "ff8448b10d9152ea01ad59ecf4584d916402311324762ccf9c2a23920337d7be",
+      "id": "80952f7f9770",
+      "priority": 1,
+      "group": "399e6b15cc4f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ike",
+      "meaningInSourceLanguage": "bad",
+      "id": "07e081b27aff",
+      "priority": 0,
+      "group": "c72baca5cce2"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ike",
+      "meaning": "bad",
+      "audio": "915bcb9961f8774dab0b2218760bb7b4672569a4a400f0456326ca3c653a84b7",
+      "id": "edf49bb02356",
+      "priority": 1,
+      "group": "c72baca5cce2"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ike",
+      "meaningInSourceLanguage": "evil",
+      "id": "d1c7b05009db",
+      "priority": 0,
+      "group": "77bfb0d8731e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ike",
+      "meaning": "evil",
+      "audio": "915bcb9961f8774dab0b2218760bb7b4672569a4a400f0456326ca3c653a84b7",
+      "id": "dbdd43332349",
+      "priority": 1,
+      "group": "77bfb0d8731e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ike",
+      "meaningInSourceLanguage": "complicated",
+      "id": "4f47964d6a84",
+      "priority": 0,
+      "group": "611fa618967a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ike",
+      "meaning": "complicated",
+      "audio": "915bcb9961f8774dab0b2218760bb7b4672569a4a400f0456326ca3c653a84b7",
+      "id": "da7526f64ce7",
+      "priority": 1,
+      "group": "611fa618967a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "lukin",
+      "meaningInSourceLanguage": "look",
+      "id": "095989f292f2",
+      "priority": 0,
+      "group": "b03a96673a3a"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lukin",
+      "meaning": "look",
+      "audio": "dfa1b4737fcccb17f453a5bb754305a66d9361c05ceba98b2ea96fd03e42fc5e",
+      "id": "adbfd46289cf",
+      "priority": 1,
+      "group": "b03a96673a3a"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ijo",
+      "meaningInSourceLanguage": "thing",
+      "id": "54a1a2d68b3d",
+      "priority": 0,
+      "group": "a84897c1ee91"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ijo",
+      "meaning": "thing",
+      "audio": "b1655ffcbb9961f416fb4c901f912eab1ebed3dd27770bfff030d6f51887769b",
+      "id": "e36a7c538938",
+      "priority": 1,
+      "group": "a84897c1ee91"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ijo",
+      "meaningInSourceLanguage": "object",
+      "id": "16bdeb2298dc",
+      "priority": 0,
+      "group": "44fdd68518f4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ijo",
+      "meaning": "object",
+      "audio": "b1655ffcbb9961f416fb4c901f912eab1ebed3dd27770bfff030d6f51887769b",
+      "id": "f7677430b361",
+      "priority": 1,
+      "group": "44fdd68518f4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ijo",
+      "meaningInSourceLanguage": "stuff",
+      "id": "82b6e1897f45",
+      "priority": 0,
+      "group": "eaa3df8694bc"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ijo",
+      "meaning": "stuff",
+      "audio": "b1655ffcbb9961f416fb4c901f912eab1ebed3dd27770bfff030d6f51887769b",
+      "id": "2d5ba818f2e1",
+      "priority": 1,
+      "group": "eaa3df8694bc"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "mi lukin",
+      "meaningInSourceLanguage": "I look",
+      "id": "4e099bf225fe",
+      "priority": 0,
+      "group": "470f33d5bf4f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "mi lukin",
+      "meaning": "I look",
+      "audio": "b4421fc8718e7bd5c50db835611eeae76f374f91fe8aca7ed69b79408a043691",
+      "id": "579c228d672f",
+      "priority": 1,
+      "group": "470f33d5bf4f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "I",
+          "definition": "mi"
+        },
+        {
+          "word": "look",
+          "definition": "lukin"
+        }
+      ],
+      "chips": [
+        "mi",
+        "lukin",
+        "li",
+        "ni"
+      ],
+      "solutions": [
+        [
+          "mi",
+          "lukin"
+        ]
+      ],
+      "formattedSolution": "mi lukin",
+      "id": "c10c82d5c172",
+      "priority": 2,
+      "group": "470f33d5bf4f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "mi",
+          "definition": "I\nme"
+        },
+        {
+          "word": "lukin",
+          "definition": "eye\nlook"
+        }
+      ],
+      "chips": [
+        "I",
+        "look",
+        "do",
+        "a"
+      ],
+      "solutions": [
+        [
+          "I",
+          "look"
+        ],
+        [
+          "I",
+          "looked"
+        ],
+        [
+          "I",
+          "will",
+          "look"
+        ]
+      ],
+      "formattedSolution": "I look",
+      "id": "b19c50926eed",
+      "priority": 2,
+      "group": "470f33d5bf4f"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li lukin",
+      "meaningInSourceLanguage": "It is an eye",
+      "id": "98c078720781",
+      "priority": 0,
+      "group": "30d2e08a41a6"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li lukin",
+      "meaning": "It is an eye",
+      "audio": "bffc9b138786df5cf0be602d69ec920a6e17e6c2c6029d88d43a7d76c3cd0607",
+      "id": "90eb6214d98f",
+      "priority": 1,
+      "group": "30d2e08a41a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ona"
+        },
+        {
+          "word": "is",
+          "definition": "-"
+        },
+        {
+          "word": "an",
+          "definition": "-"
+        },
+        {
+          "word": "eye",
+          "definition": "lukin"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "lukin",
+        "ni",
+        "la"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "lukin"
+        ]
+      ],
+      "formattedSolution": "ona li lukin",
+      "id": "9614d66df434",
+      "priority": 2,
+      "group": "30d2e08a41a6"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "lukin",
+          "definition": "eye\nlook"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "an",
+        "eye",
+        "it",
+        "me",
+        "I"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "an",
+          "eye"
+        ],
+        [
+          "They",
+          "look"
+        ],
+        [
+          "They",
+          "looked"
+        ],
+        [
+          "They",
+          "will",
+          "look"
+        ],
+        [
+          "They",
+          "are",
+          "eyes"
+        ],
+        [
+          "He",
+          "looks"
+        ],
+        [
+          "He",
+          "looked"
+        ],
+        [
+          "He",
+          "will",
+          "look"
+        ],
+        [
+          "She",
+          "looks"
+        ],
+        [
+          "She",
+          "looked"
+        ],
+        [
+          "She",
+          "will",
+          "look"
+        ]
+      ],
+      "formattedSolution": "It is an eye",
+      "id": "00e670377f11",
+      "priority": 2,
+      "group": "30d2e08a41a6"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li lili",
+      "meaningInSourceLanguage": "They are young",
+      "id": "1dceba4c5b44",
+      "priority": 0,
+      "group": "51a96eaa029e"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li lili",
+      "meaning": "They are young",
+      "audio": "f76013e0635afb72f6ff34a9c373df180bf0e643694cbc5f0f5f7918c0284fd0",
+      "id": "30d97c4d2450",
+      "priority": 1,
+      "group": "51a96eaa029e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "They",
+          "definition": "ona"
+        },
+        {
+          "word": "are",
+          "definition": "-"
+        },
+        {
+          "word": "young",
+          "definition": "lili"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "lili",
+        "ni",
+        "la"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "lili"
+        ]
+      ],
+      "formattedSolution": "ona li lili",
+      "id": "c3ce2b343050",
+      "priority": 2,
+      "group": "51a96eaa029e"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "lili",
+          "definition": "small\nyoung"
+        }
+      ],
+      "chips": [
+        "They",
+        "are",
+        "young",
+        "The",
+        "you"
+      ],
+      "solutions": [
+        [
+          "They",
+          "are",
+          "young"
+        ],
+        [
+          "They",
+          "are",
+          "little"
+        ],
+        [
+          "They",
+          "are",
+          "small"
+        ],
+        [
+          "He",
+          "is",
+          "young"
+        ],
+        [
+          "He",
+          "is",
+          "little"
+        ],
+        [
+          "He",
+          "is",
+          "small"
+        ],
+        [
+          "She",
+          "is",
+          "young"
+        ],
+        [
+          "She",
+          "is",
+          "little"
+        ],
+        [
+          "She",
+          "is",
+          "small"
+        ],
+        [
+          "It",
+          "is",
+          "young"
+        ],
+        [
+          "It",
+          "is",
+          "little"
+        ],
+        [
+          "It",
+          "is",
+          "small"
+        ]
+      ],
+      "formattedSolution": "They are young",
+      "id": "2ff57e8e20dd",
+      "priority": 2,
+      "group": "51a96eaa029e"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "ona li ijo",
+      "meaningInSourceLanguage": "It is a thing",
+      "id": "6d4f4a78bdaf",
+      "priority": 0,
+      "group": "0a736a1ccba4"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "ona li ijo",
+      "meaning": "It is a thing",
+      "audio": "f48c7ebe9fc8ee87e139ae0d43c04ce1b14bf1830ffa09461bc63b4df78c7bac",
+      "id": "024a6e7c72ad",
+      "priority": 1,
+      "group": "0a736a1ccba4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "It",
+          "definition": "ona"
+        },
+        {
+          "word": "is",
+          "definition": "-"
+        },
+        {
+          "word": "a",
+          "definition": "-"
+        },
+        {
+          "word": "thing",
+          "definition": "ijo"
+        }
+      ],
+      "chips": [
+        "ona",
+        "li",
+        "ijo",
+        "ni",
+        "la"
+      ],
+      "solutions": [
+        [
+          "ona",
+          "li",
+          "ijo"
+        ]
+      ],
+      "formattedSolution": "ona li ijo",
+      "id": "d25b0d260119",
+      "priority": 2,
+      "group": "0a736a1ccba4"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "ona",
+          "definition": "it\nthem\nthey"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "ijo",
+          "definition": "object\nstuff\nthing"
+        }
+      ],
+      "chips": [
+        "It",
+        "is",
+        "a",
+        "thing",
+        "it",
+        "I",
+        "an"
+      ],
+      "solutions": [
+        [
+          "It",
+          "is",
+          "a",
+          "thing"
+        ],
+        [
+          "They",
+          "are",
+          "things"
+        ],
+        [
+          "It",
+          "is",
+          "an",
+          "object"
+        ],
+        [
+          "It's",
+          "an",
+          "object"
+        ],
+        [
+          "They",
+          "are",
+          "objects"
+        ],
+        [
+          "It",
+          "is",
+          "stuff"
+        ],
+        [
+          "It's",
+          "stuff"
+        ]
+      ],
+      "formattedSolution": "It is a thing",
+      "id": "1b297291b27e",
+      "priority": 2,
+      "group": "0a736a1ccba4"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soweli li pona",
+      "meaningInSourceLanguage": "The dog is good",
+      "id": "b7b85fbb70fe",
+      "priority": 0,
+      "group": "0d77e8f069b7"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli li pona",
+      "meaning": "The dog is good",
+      "audio": "7ad79a6c250bac71fc5bf821ff903eef542ed1889b32f0c05b981588361391b3",
+      "id": "bb80f1825779",
+      "priority": 1,
+      "group": "0d77e8f069b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "-"
+        },
+        {
+          "word": "dog",
+          "definition": "soweli"
+        },
+        {
+          "word": "is",
+          "definition": "-"
+        },
+        {
+          "word": "good",
+          "definition": "pona"
+        }
+      ],
+      "chips": [
+        "soweli",
+        "li",
+        "pona",
+        "pali",
+        "ona"
+      ],
+      "solutions": [
+        [
+          "soweli",
+          "li",
+          "pona"
+        ]
+      ],
+      "formattedSolution": "soweli li pona",
+      "id": "4ac6bb4a0e5e",
+      "priority": 2,
+      "group": "0d77e8f069b7"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "soweli",
+          "definition": "cow\ndog\nelephant\n{land mammal}"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "pona",
+          "definition": "good\nsimple"
+        }
+      ],
+      "chips": [
+        "The",
+        "dog",
+        "is",
+        "good",
+        "do",
+        "he",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "dog",
+          "is",
+          "good"
+        ],
+        [
+          "The",
+          "dogs",
+          "are",
+          "good"
+        ],
+        [
+          "Dogs",
+          "are",
+          "good"
+        ],
+        [
+          "The",
+          "cat",
+          "is",
+          "good"
+        ],
+        [
+          "The",
+          "cats",
+          "are",
+          "good"
+        ],
+        [
+          "Cats",
+          "are",
+          "good"
+        ],
+        [
+          "The",
+          "land",
+          "mammal",
+          "is",
+          "good"
+        ],
+        [
+          "The",
+          "land",
+          "mammals",
+          "are",
+          "good"
+        ],
+        [
+          "Land",
+          "mammals",
+          "are",
+          "good"
+        ]
+      ],
+      "formattedSolution": "The dog is good",
+      "id": "9043ae7cc864",
+      "priority": 2,
+      "group": "0d77e8f069b7"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "soweli li suwi",
+      "meaningInSourceLanguage": "The cat is cute",
+      "id": "d4bd2dcb9e70",
+      "priority": 0,
+      "group": "3f2988b38c0c"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "soweli li suwi",
+      "meaning": "The cat is cute",
+      "audio": "86f09074f18202527ad7031ee982498622ca790fa9d448c746982c02980a5c86",
+      "id": "0acdf5dca579",
+      "priority": 1,
+      "group": "3f2988b38c0c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "-"
+        },
+        {
+          "word": "cat",
+          "definition": "soweli"
+        },
+        {
+          "word": "is",
+          "definition": "-"
+        },
+        {
+          "word": "cute",
+          "definition": "suwi"
+        }
+      ],
+      "chips": [
+        "soweli",
+        "li",
+        "suwi",
+        "suli",
+        "mi"
+      ],
+      "solutions": [
+        [
+          "soweli",
+          "li",
+          "suwi"
+        ]
+      ],
+      "formattedSolution": "soweli li suwi",
+      "id": "2cff6e8a458c",
+      "priority": 2,
+      "group": "3f2988b38c0c"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "soweli",
+          "definition": "cow\ndog\nelephant\n{land mammal}"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "suwi",
+          "definition": "cute\nsweet"
+        }
+      ],
+      "chips": [
+        "The",
+        "cat",
+        "is",
+        "cute",
+        "it",
+        "he",
+        "me"
+      ],
+      "solutions": [
+        [
+          "The",
+          "cat",
+          "is",
+          "cute"
+        ],
+        [
+          "The",
+          "dog",
+          "is",
+          "cute"
+        ],
+        [
+          "The",
+          "dogs",
+          "are",
+          "cute"
+        ],
+        [
+          "Dogs",
+          "are",
+          "cute"
+        ],
+        [
+          "The",
+          "cats",
+          "are",
+          "cute"
+        ],
+        [
+          "Cats",
+          "are",
+          "cute"
+        ],
+        [
+          "The",
+          "land",
+          "mammal",
+          "is",
+          "cute"
+        ],
+        [
+          "The",
+          "land",
+          "mammals",
+          "are",
+          "cute"
+        ],
+        [
+          "Land",
+          "mammals",
+          "are",
+          "cute"
+        ]
+      ],
+      "formattedSolution": "The cat is cute",
+      "id": "6db586fa63b5",
+      "priority": 2,
+      "group": "3f2988b38c0c"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jan li suli",
+      "meaningInSourceLanguage": "People are important",
+      "id": "a8ea86564bfb",
+      "priority": 0,
+      "group": "d939ec554fa3"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan li suli",
+      "meaning": "People are important",
+      "audio": "00fa29618c44af04cae8b15a580cd4df397341eaabcd37eb3d16556f1f7d70b1",
+      "id": "921ef380b1e7",
+      "priority": 1,
+      "group": "d939ec554fa3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "People",
+          "definition": "jan"
+        },
+        {
+          "word": "are",
+          "definition": "-"
+        },
+        {
+          "word": "important",
+          "definition": "suli"
+        }
+      ],
+      "chips": [
+        "jan",
+        "li",
+        "suli",
+        "la",
+        "mi"
+      ],
+      "solutions": [
+        [
+          "jan",
+          "li",
+          "suli"
+        ]
+      ],
+      "formattedSolution": "jan li suli",
+      "id": "1d8d43977a90",
+      "priority": 2,
+      "group": "d939ec554fa3"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "jan",
+          "definition": "people\nperson"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "suli",
+          "definition": "big\nold"
+        }
+      ],
+      "chips": [
+        "People",
+        "are",
+        "important",
+        "make",
+        "people"
+      ],
+      "solutions": [
+        [
+          "People",
+          "are",
+          "important"
+        ],
+        [
+          "The",
+          "person",
+          "is",
+          "important"
+        ],
+        [
+          "The",
+          "people",
+          "are",
+          "important"
+        ],
+        [
+          "The",
+          "person",
+          "is",
+          "big"
+        ],
+        [
+          "The",
+          "people",
+          "are",
+          "big"
+        ],
+        [
+          "People",
+          "are",
+          "big"
+        ],
+        [
+          "The",
+          "person",
+          "is",
+          "old"
+        ],
+        [
+          "The",
+          "people",
+          "are",
+          "old"
+        ],
+        [
+          "People",
+          "are",
+          "old"
+        ]
+      ],
+      "formattedSolution": "People are important",
+      "id": "87ae9ab5a054",
+      "priority": 2,
+      "group": "d939ec554fa3"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "jan li ike",
+      "meaningInSourceLanguage": "The person is evil",
+      "id": "eb8f66cbdf41",
+      "priority": 0,
+      "group": "71ab975a2d1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan li ike",
+      "meaning": "The person is evil",
+      "audio": "d9058fc2b5c5ebaf89766bb48577cf21f94582f5dcd10ac7bbd767388c7590c4",
+      "id": "ff23203bb138",
+      "priority": 1,
+      "group": "71ab975a2d1f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": false,
+      "phrase": [
+        {
+          "word": "The",
+          "definition": "-"
+        },
+        {
+          "word": "person",
+          "definition": "jan"
+        },
+        {
+          "word": "is",
+          "definition": "-"
+        },
+        {
+          "word": "evil",
+          "definition": "ike"
+        }
+      ],
+      "chips": [
+        "jan",
+        "li",
+        "ike",
+        "la",
+        "mi"
+      ],
+      "solutions": [
+        [
+          "jan",
+          "li",
+          "ike"
+        ]
+      ],
+      "formattedSolution": "jan li ike",
+      "id": "93ea0333a081",
+      "priority": 2,
+      "group": "71ab975a2d1f"
+    },
+    {
+      "type": "chips",
+      "translatesToSourceLanguage": true,
+      "phrase": [
+        {
+          "word": "jan",
+          "definition": "people\nperson"
+        },
+        {
+          "word": "li",
+          "definition": "-"
+        },
+        {
+          "word": "ike",
+          "definition": "bad\ncomplicated\nevil"
+        }
+      ],
+      "chips": [
+        "The",
+        "person",
+        "is",
+        "evil",
+        "he",
+        "me",
+        "we"
+      ],
+      "solutions": [
+        [
+          "The",
+          "person",
+          "is",
+          "evil"
+        ],
+        [
+          "The",
+          "people",
+          "are",
+          "evil"
+        ],
+        [
+          "People",
+          "are",
+          "evil"
+        ],
+        [
+          "The",
+          "person",
+          "is",
+          "bad"
+        ],
+        [
+          "The",
+          "people",
+          "are",
+          "bad"
+        ],
+        [
+          "People",
+          "are",
+          "bad"
+        ],
+        [
+          "The",
+          "person",
+          "is",
+          "complicated"
+        ],
+        [
+          "The",
+          "people",
+          "are",
+          "complicated"
+        ],
+        [
+          "People",
+          "are",
+          "complicated"
+        ]
+      ],
+      "formattedSolution": "The person is evil",
+      "id": "3daed78cd373",
+      "priority": 2,
+      "group": "71ab975a2d1f"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "old1.jpg",
+        "old2.jpg",
+        "old3.jpg"
+      ],
+      "formInTargetLanguage": "suli",
+      "meaningInSourceLanguage": "old",
+      "id": "b7dea1fea971",
+      "priority": 0,
+      "group": "33cd53dadf1f"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "old1.jpg",
+        "old2.jpg",
+        "old3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "suli"
+      ],
+      "phrase": [
+        {
+          "word": "old",
+          "definition": "suli"
+        }
+      ],
+      "id": "508875766396",
+      "priority": 1,
+      "group": "33cd53dadf1f"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suli",
+      "meaning": "old",
+      "audio": "d956ed31a3f7b7958c6f02300a4281b37e004594985d151c8f4636df742efda2",
+      "id": "0637b669e955",
+      "priority": 1,
+      "group": "33cd53dadf1f"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "big1.jpg",
+        "big2.jpg",
+        "big3.jpg"
+      ],
+      "formInTargetLanguage": "suli",
+      "meaningInSourceLanguage": "big",
+      "id": "3e8b5cee5ca9",
+      "priority": 0,
+      "group": "0c231cc7aeda"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "big1.jpg",
+        "big2.jpg",
+        "big3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "suli"
+      ],
+      "phrase": [
+        {
+          "word": "big",
+          "definition": "suli"
+        }
+      ],
+      "id": "36a47c266069",
+      "priority": 1,
+      "group": "0c231cc7aeda"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "suli",
+      "meaning": "big",
+      "audio": "d956ed31a3f7b7958c6f02300a4281b37e004594985d151c8f4636df742efda2",
+      "id": "f2824f1daa2e",
+      "priority": 1,
+      "group": "0c231cc7aeda"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "small1.jpg",
+        "small2.jpg",
+        "small3.jpg"
+      ],
+      "formInTargetLanguage": "lili",
+      "meaningInSourceLanguage": "small",
+      "id": "09674b60a267",
+      "priority": 0,
+      "group": "1d8f4bc6fea8"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "small1.jpg",
+        "small2.jpg",
+        "small3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "lili"
+      ],
+      "phrase": [
+        {
+          "word": "small",
+          "definition": "lili"
+        }
+      ],
+      "id": "0f5d002eb255",
+      "priority": 1,
+      "group": "1d8f4bc6fea8"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lili",
+      "meaning": "small",
+      "audio": "d9ac5a5cfc643fd7b3a3bb2c8f16c3bd25599d843b609f626a9af6894b3b9bd9",
+      "id": "0cba2ff6ee57",
+      "priority": 1,
+      "group": "1d8f4bc6fea8"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "baby1.jpg",
+        "child2.jpg",
+        "child3.jpg"
+      ],
+      "formInTargetLanguage": "lili",
+      "meaningInSourceLanguage": "young",
+      "id": "b76dcb9658d7",
+      "priority": 0,
+      "group": "520b436e3118"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "baby1.jpg",
+        "child2.jpg",
+        "child3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "lili"
+      ],
+      "phrase": [
+        {
+          "word": "young",
+          "definition": "lili"
+        }
+      ],
+      "id": "a6e223ff76fb",
+      "priority": 1,
+      "group": "520b436e3118"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lili",
+      "meaning": "young",
+      "audio": "d9ac5a5cfc643fd7b3a3bb2c8f16c3bd25599d843b609f626a9af6894b3b9bd9",
+      "id": "6244e75aef7f",
+      "priority": 1,
+      "group": "520b436e3118"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "eye1.jpg",
+        "eye2.jpg",
+        "eye3.jpg"
+      ],
+      "formInTargetLanguage": "lukin",
+      "meaningInSourceLanguage": "eye",
+      "id": "7b7433332157",
+      "priority": 0,
+      "group": "dfe6f86b3880"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "eye1.jpg",
+        "eye2.jpg",
+        "eye3.jpg"
+      ],
+      "formInTargetLanguage": [
+        "lukin"
+      ],
+      "phrase": [
+        {
+          "word": "eye",
+          "definition": "lukin"
+        }
+      ],
+      "id": "ae7a38861b88",
+      "priority": 1,
+      "group": "dfe6f86b3880"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "lukin",
+      "meaning": "eye",
+      "audio": "dfa1b4737fcccb17f453a5bb754305a66d9361c05ceba98b2ea96fd03e42fc5e",
+      "id": "a982d0c9bc32",
+      "priority": 1,
+      "group": "dfe6f86b3880"
+    }
+  ]
+}

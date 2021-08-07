@@ -157,6 +157,23 @@
     },
     {
       "type": "options",
+      "formInTargetLanguage": "jan",
+      "meaningInSourceLanguage": "somebody",
+      "id": "7e2fcb768465",
+      "priority": 0,
+      "group": "4812df6dfde0"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan",
+      "meaning": "somebody",
+      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
+      "id": "086a19c02cb6",
+      "priority": 1,
+      "group": "4812df6dfde0"
+    },
+    {
+      "type": "options",
       "formInTargetLanguage": "ona li pali",
       "meaningInSourceLanguage": "They work",
       "id": "ddf0ed4022b5",
@@ -299,7 +316,7 @@
         "They",
         "work",
         "they",
-        "we"
+        "The"
       ],
       "solutions": [
         [
@@ -857,7 +874,7 @@
         },
         {
           "word": "toki",
-          "definition": "Hello!"
+          "definition": "hello\nlanguage\nspeech\ntalk"
         }
       ],
       "chips": [
@@ -1047,7 +1064,7 @@
         },
         {
           "word": "toki",
-          "definition": "Hello!"
+          "definition": "hello\nlanguage\nspeech\ntalk"
         }
       ],
       "chips": [
@@ -1498,48 +1515,6 @@
     {
       "type": "cards",
       "pictures": [
-        "cat1.jpg",
-        "cat2.jpg",
-        "cat3.jpg"
-      ],
-      "formInTargetLanguage": "soweli",
-      "meaningInSourceLanguage": "cat",
-      "id": "24bad15da491",
-      "priority": 0,
-      "group": "f5376c8af72e"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "cat1.jpg",
-        "cat2.jpg",
-        "cat3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "soweli"
-      ],
-      "phrase": [
-        {
-          "word": "cat",
-          "definition": "soweli"
-        }
-      ],
-      "id": "4cba8787ff3a",
-      "priority": 1,
-      "group": "f5376c8af72e"
-    },
-    {
-      "type": "listeningExercise",
-      "answer": "soweli",
-      "meaning": "cat",
-      "audio": "0c845d712946d4ffa0865fecb2cf64e51fca405117fd8b75591368026b43e4d4",
-      "id": "b6daebe8f63e",
-      "priority": 1,
-      "group": "f5376c8af72e"
-    },
-    {
-      "type": "cards",
-      "pictures": [
         "dog1.jpg",
         "dog2.jpg",
         "dog3.jpg"
@@ -1620,6 +1595,90 @@
       "id": "9cf93b5356e6",
       "priority": 1,
       "group": "39e371b43017"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "niece3.jpg",
+        "man2.jpg",
+        "woman2.jpg"
+      ],
+      "formInTargetLanguage": "jan",
+      "meaningInSourceLanguage": "person",
+      "id": "21e6c5fe05e9",
+      "priority": 0,
+      "group": "ee0d8568c624"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "niece3.jpg",
+        "man2.jpg",
+        "woman2.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jan"
+      ],
+      "phrase": [
+        {
+          "word": "person",
+          "definition": "jan"
+        }
+      ],
+      "id": "7f881d081c4a",
+      "priority": 1,
+      "group": "ee0d8568c624"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan",
+      "meaning": "person",
+      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
+      "id": "df6c9508c5be",
+      "priority": 1,
+      "group": "ee0d8568c624"
+    },
+    {
+      "type": "cards",
+      "pictures": [
+        "people1.jpg",
+        "people2.jpg",
+        "family1.jpg"
+      ],
+      "formInTargetLanguage": "jan",
+      "meaningInSourceLanguage": "people",
+      "id": "112eb87cb7b0",
+      "priority": 0,
+      "group": "d98e9c031ddb"
+    },
+    {
+      "type": "shortInput",
+      "pictures": [
+        "people1.jpg",
+        "people2.jpg",
+        "family1.jpg"
+      ],
+      "formInTargetLanguage": [
+        "jan"
+      ],
+      "phrase": [
+        {
+          "word": "people",
+          "definition": "jan"
+        }
+      ],
+      "id": "480184502099",
+      "priority": 1,
+      "group": "d98e9c031ddb"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "jan",
+      "meaning": "people",
+      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
+      "id": "2f3d22683edf",
+      "priority": 1,
+      "group": "d98e9c031ddb"
     }
   ]
 }

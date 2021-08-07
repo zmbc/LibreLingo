@@ -2,27 +2,7 @@ Skill:
   Name: Basics 1
   Id: 1
 
-New words:
-  - Word: jan
-    Translation: person
-    Images:
-      - niece3
-      - man2
-      - woman2
-
-  - Word: jan
-    Translation: people
-    Images:
-      - people1
-      - people2
-      - family1
-
-  - Word: toki!
-    Translation: Hello!
-    Images:
-      - hello1
-      - hello2
-      - hello3
+New words: []
 
 Phrases:
   - Phrase: mi
@@ -39,6 +19,9 @@ Phrases:
 
   - Phrase: sina
     Translation: you
+
+  - Phrase: toki!
+    Translation: Hello!
 
   - Phrase: toki
     Translation: speech
@@ -66,15 +49,26 @@ Phrases:
 
   - Phrase: mi toki
     Translation: I speak
+    Alternate translations:
+      - I say
+      - I talk
+      - I communicate
+      - We speak
+      - We say
+      - We talk
+      - We communicate
 
   - Phrase: sina toki
-    Translation: You speak
+    Translation: You talk
+    Alternate translations:
+      - You say
+      - You speak
+      - You communicate
 
   - Phrase: sina pona!
     Translation: "{Thank you!}"
-
-  - Phrase: jan
-    Translation: somebody
+    Alternate translations:
+      - You are good
 
 Mini-dictionary:
   toki pona:

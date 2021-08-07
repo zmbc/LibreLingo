@@ -27,8 +27,3 @@ the **li** is dropped, as in **mi toki** (*I talk*). Using **li** in these cases
 is grammatically incorrect.
 
 In this skill, you'll get some practice with **li** and learn more words. Have fun!
-
-
-# Test
-
-This is not a link. [This is a link.](https://example.com)

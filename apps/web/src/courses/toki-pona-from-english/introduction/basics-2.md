@@ -23,7 +23,3 @@ to the rule. When the subject of a sentence is _exactly_ __mi__ or _exactly_ __s
 the __li__ is dropped, as in __mi toki__ (_I talk_). Using __li__ in these cases
 is grammatically incorrect.
 In this skill, you'll get some practice with __li__ and learn more words. Have fun!
-
-# Test
-
-This is not a link. [This is a link.](https://example.com)

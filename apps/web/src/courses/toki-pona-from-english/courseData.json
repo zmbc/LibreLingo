@@ -16,14 +16,12 @@
         {
           "introduction": "basics-1.md",
           "summary": [
-            "jan",
-            "jan",
-            "toki!",
             "mi",
             "mi",
             "mi",
             "mi",
             "sina",
+            "toki!",
             "toki",
             "toki",
             "toki",
@@ -34,13 +32,12 @@
             "pona",
             "mi toki",
             "sina toki",
-            "sina pona!",
-            "jan"
+            "sina pona!"
           ],
           "practiceHref": "basics-1",
           "id": "569673478a3d",
           "title": "Basics 1",
-          "levels": 5
+          "levels": 4
         },
         {
           "introduction": "basics-2.md",
@@ -49,7 +46,8 @@
             "soweli",
             "soweli",
             "soweli",
-            "soweli",
+            "jan",
+            "jan",
             "pali",
             "pali",
             "pali",
@@ -59,6 +57,7 @@
             "ona",
             "ona",
             "ona",
+            "jan",
             "ona li pali",
             "ona li pali",
             "ona li pali",
@@ -70,6 +69,38 @@
           "practiceHref": "basics-2",
           "id": "38c2ea1c36d2",
           "title": "Basics 2",
+          "levels": 5
+        },
+        {
+          "introduction": "basics-3.md",
+          "summary": [
+            "suli",
+            "suli",
+            "lili",
+            "lili",
+            "lukin",
+            "suli",
+            "suwi",
+            "suwi",
+            "ike",
+            "ike",
+            "ike",
+            "lukin",
+            "ijo",
+            "ijo",
+            "ijo",
+            "mi lukin",
+            "ona li lukin",
+            "ona li lili",
+            "ona li ijo",
+            "soweli li pona",
+            "soweli li suwi",
+            "jan li suli",
+            "jan li ike"
+          ],
+          "practiceHref": "basics-3",
+          "id": "d7279e4777cd",
+          "title": "Basics 3",
           "levels": 5
         }
       ]

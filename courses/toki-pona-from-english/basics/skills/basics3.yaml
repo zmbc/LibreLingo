@@ -1,0 +1,204 @@
+Skill:
+  Name: Basics 3
+  Id: 3
+
+New words:
+  - Word: suli
+    Translation: old
+    Images:
+      - old1
+      - old2
+      - old3
+
+  - Word: suli
+    Translation: big
+    Images:
+      - big1
+      - big2
+      - big3
+
+  - Word: lili
+    Translation: small
+    Images:
+      - small1
+      - small2
+      - small3
+
+  - Word: lili
+    Translation: young
+    Images:
+      - baby1
+      - child2
+      - child3
+
+  - Word: lukin
+    Translation: eye
+    Images:
+      - eye1
+      - eye2
+      - eye3
+
+Phrases:
+  - Phrase: suli
+    Translation: important
+    Alternative translations:
+      - big
+      - old
+
+  - Phrase: suwi
+    Translation: sweet
+
+  - Phrase: suwi
+    Translation: cute
+
+  - Phrase: ike
+    Translation: bad
+
+  - Phrase: ike
+    Translation: evil
+
+  - Phrase: ike
+    Translation: complicated
+
+  - Phrase: lukin
+    Translation: look
+
+  - Phrase: ijo
+    Translation: thing
+
+  - Phrase: ijo
+    Translation: object
+
+  - Phrase: ijo
+    Translation: stuff
+
+  - Phrase: mi lukin
+    Translation: I look
+    Alternative translations:
+      - I looked
+      - "I {will look}"
+
+  - Phrase: ona li lukin
+    Translation: It is an eye
+    Alternative translations:
+      - They look
+      - They looked
+      - "They {will look}"
+      - They are eyes
+      - He looks
+      - He looked
+      - "He {will look}"
+      - She looks
+      - She looked
+      - "She {will look}"
+
+  - Phrase: ona li lili
+    Translation: They are young
+    Alternative translations:
+      - They are little
+      - They are small
+      - He is young
+      - He is little
+      - He is small
+      - She is young
+      - She is little
+      - She is small
+      - It is young
+      - It is little
+      - It is small
+
+  - Phrase: ona li ijo
+    Translation: It is a thing
+    Alternative translations:
+      - They are things
+      - It is an object
+      - It's an object
+      - They are objects
+      - It is stuff
+      - It's stuff
+
+  - Phrase: soweli li pona
+    Translation: The dog is good
+    Alternative translations:
+      - The dogs are good
+      - Dogs are good
+      - The cat is good
+      - The cats are good
+      - Cats are good
+      - The land mammal is good
+      - The land mammals are good
+      - Land mammals are good
+
+  - Phrase: soweli li suwi
+    Translation: The cat is cute
+    Alternative translations:
+      - The dog is cute
+      - The dogs are cute
+      - Dogs are cute
+      - The cats are cute
+      - Cats are cute
+      - The land mammal is cute
+      - The land mammals are cute
+      - Land mammals are cute
+
+  - Phrase: jan li suli
+    Translation: People are important
+    Alternative translations:
+      - The person is important
+      - The people are important
+      - The person is big
+      - The people are big
+      - People are big
+      - The person is old
+      - The people are old
+      - People are old
+
+  - Phrase: jan li ike
+    Translation: The person is evil
+    Alternative translations:
+      - The people are evil
+      - People are evil
+      - The person is bad
+      - The people are bad
+      - People are bad
+      - The person is complicated
+      - The people are complicated
+      - People are complicated
+
+Mini-dictionary:
+  toki pona:
+    - lukin:
+      - eye
+      - look
+    - ike:
+      - bad
+      - evil
+      - complicated
+    - ijo:
+      - thing
+      - object
+      - stuff
+    - suwi:
+      - sweet
+      - cute
+
+  English:
+    - eye: lukin
+    - look: lukin
+    - looked: lukin
+    - will look: lukin
+    - important: suli
+    - old: suli
+    - big: suli
+    - evil: ike
+    - bad: ike
+    - complicated: ike
+    - cat: soweli
+    - dog: soweli
+    - cute: suwi
+    - the: "-"
+    - is: "-"
+    - a: "-"
+    - an: "-"
+    - thing: ijo
+    - object: ijo

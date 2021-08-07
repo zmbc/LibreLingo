@@ -18,13 +18,6 @@ New words:
       - cow3
 
   - Word: soweli
-    Translation: cat
-    Images:
-      - cat1
-      - cat2
-      - cat3
-
-  - Word: soweli
     Translation: dog
     Images:
       - dog1
@@ -37,6 +30,20 @@ New words:
       - elephant1
       - elephant2
       - elephant3
+
+  - Word: jan
+    Translation: person
+    Images:
+      - niece3
+      - man2
+      - woman2
+
+  - Word: jan
+    Translation: people
+    Images:
+      - people1
+      - people2
+      - family1
 
 Phrases:
   - Phrase: pali
@@ -65,6 +72,9 @@ Phrases:
 
   - Phrase: ona
     Translation: she
+
+  - Phrase: jan
+    Translation: somebody
 
   - Phrase: ona li pali
     Translation: They work
@@ -260,6 +270,6 @@ Mini-dictionary:
     - talked: toki
     - will talk: toki
     - we:
-      - mi
       - mi mute
+      - mi
     - land mammal: soweli

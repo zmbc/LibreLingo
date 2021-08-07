@@ -1,6 +1,6 @@
 {
   "id": "569673478a3d",
-  "levels": 5,
+  "levels": 4,
   "challenges": [
     {
       "type": "options",
@@ -86,6 +86,23 @@
       "id": "becd931a9273",
       "priority": 1,
       "group": "463f38f52a99"
+    },
+    {
+      "type": "options",
+      "formInTargetLanguage": "toki!",
+      "meaningInSourceLanguage": "Hello!",
+      "id": "90744445428b",
+      "priority": 0,
+      "group": "926a7e5c9897"
+    },
+    {
+      "type": "listeningExercise",
+      "answer": "toki!",
+      "meaning": "Hello!",
+      "audio": "64d88ba21a3ba814bc602581ef6993ebe6088efe02d53d181e2adb19521d0094",
+      "id": "aa6d91d22bed",
+      "priority": 1,
+      "group": "926a7e5c9897"
     },
     {
       "type": "options",
@@ -280,7 +297,7 @@
         },
         {
           "word": "toki",
-          "definition": "Hello!"
+          "definition": "hello\nlanguage\nspeech\ntalk"
         }
       ],
       "chips": [
@@ -303,19 +320,19 @@
     {
       "type": "options",
       "formInTargetLanguage": "sina toki",
-      "meaningInSourceLanguage": "You speak",
-      "id": "dfa9019458de",
+      "meaningInSourceLanguage": "You talk",
+      "id": "f5cc21f0b29c",
       "priority": 0,
-      "group": "2c96e7d513e4"
+      "group": "04b7596eba8c"
     },
     {
       "type": "listeningExercise",
       "answer": "sina toki",
-      "meaning": "You speak",
+      "meaning": "You talk",
       "audio": "1fbc11cb9f616e7f109909cdef34798589315f9de4ac370f9a790a2867acc922",
-      "id": "36aa3d92eccd",
+      "id": "c9a4ff421505",
       "priority": 1,
-      "group": "2c96e7d513e4"
+      "group": "04b7596eba8c"
     },
     {
       "type": "chips",
@@ -326,7 +343,7 @@
           "definition": "sina"
         },
         {
-          "word": "speak",
+          "word": "talk",
           "definition": "toki"
         }
       ],
@@ -343,9 +360,9 @@
         ]
       ],
       "formattedSolution": "sina toki",
-      "id": "d5b395acbee4",
+      "id": "44a39ed0ceea",
       "priority": 2,
-      "group": "2c96e7d513e4"
+      "group": "04b7596eba8c"
     },
     {
       "type": "chips",
@@ -357,25 +374,25 @@
         },
         {
           "word": "toki",
-          "definition": "Hello!"
+          "definition": "hello\nlanguage\nspeech\ntalk"
         }
       ],
       "chips": [
         "You",
-        "speak",
+        "talk",
         "you",
         "say"
       ],
       "solutions": [
         [
           "You",
-          "speak"
+          "talk"
         ]
       ],
-      "formattedSolution": "You speak",
-      "id": "1e7064cd7bfb",
+      "formattedSolution": "You talk",
+      "id": "f64ce2d9cd27",
       "priority": 2,
-      "group": "2c96e7d513e4"
+      "group": "04b7596eba8c"
     },
     {
       "type": "options",
@@ -437,7 +454,7 @@
         "Thank",
         "you",
         "You",
-        "say"
+        "an"
       ],
       "solutions": [
         [
@@ -449,149 +466,6 @@
       "id": "b998445adc5b",
       "priority": 2,
       "group": "5b59032de513"
-    },
-    {
-      "type": "options",
-      "formInTargetLanguage": "jan",
-      "meaningInSourceLanguage": "somebody",
-      "id": "7e2fcb768465",
-      "priority": 0,
-      "group": "4812df6dfde0"
-    },
-    {
-      "type": "listeningExercise",
-      "answer": "jan",
-      "meaning": "somebody",
-      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
-      "id": "086a19c02cb6",
-      "priority": 1,
-      "group": "4812df6dfde0"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "niece3.jpg",
-        "man2.jpg",
-        "woman2.jpg"
-      ],
-      "formInTargetLanguage": "jan",
-      "meaningInSourceLanguage": "person",
-      "id": "21e6c5fe05e9",
-      "priority": 0,
-      "group": "ee0d8568c624"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "niece3.jpg",
-        "man2.jpg",
-        "woman2.jpg"
-      ],
-      "formInTargetLanguage": [
-        "jan"
-      ],
-      "phrase": [
-        {
-          "word": "person",
-          "definition": "jan"
-        }
-      ],
-      "id": "7f881d081c4a",
-      "priority": 1,
-      "group": "ee0d8568c624"
-    },
-    {
-      "type": "listeningExercise",
-      "answer": "jan",
-      "meaning": "person",
-      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
-      "id": "df6c9508c5be",
-      "priority": 1,
-      "group": "ee0d8568c624"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "people1.jpg",
-        "people2.jpg",
-        "family1.jpg"
-      ],
-      "formInTargetLanguage": "jan",
-      "meaningInSourceLanguage": "people",
-      "id": "112eb87cb7b0",
-      "priority": 0,
-      "group": "d98e9c031ddb"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "people1.jpg",
-        "people2.jpg",
-        "family1.jpg"
-      ],
-      "formInTargetLanguage": [
-        "jan"
-      ],
-      "phrase": [
-        {
-          "word": "people",
-          "definition": "jan"
-        }
-      ],
-      "id": "480184502099",
-      "priority": 1,
-      "group": "d98e9c031ddb"
-    },
-    {
-      "type": "listeningExercise",
-      "answer": "jan",
-      "meaning": "people",
-      "audio": "ef3c09a22aeac97a11d79cfa2d8f074e6c065bc37dbf3797f7445887239e4c7b",
-      "id": "2f3d22683edf",
-      "priority": 1,
-      "group": "d98e9c031ddb"
-    },
-    {
-      "type": "cards",
-      "pictures": [
-        "hello1.jpg",
-        "hello2.jpg",
-        "hello3.jpg"
-      ],
-      "formInTargetLanguage": "toki!",
-      "meaningInSourceLanguage": "Hello!",
-      "id": "4acceb83f9c1",
-      "priority": 0,
-      "group": "874a78ca56ac"
-    },
-    {
-      "type": "shortInput",
-      "pictures": [
-        "hello1.jpg",
-        "hello2.jpg",
-        "hello3.jpg"
-      ],
-      "formInTargetLanguage": [
-        "toki!"
-      ],
-      "phrase": [
-        {
-          "word": "Hello!",
-          "definition": "toki!"
-        }
-      ],
-      "id": "f26c14e98753",
-      "priority": 1,
-      "group": "874a78ca56ac"
-    },
-    {
-      "type": "listeningExercise",
-      "answer": "toki!",
-      "meaning": "Hello!",
-      "audio": "64d88ba21a3ba814bc602581ef6993ebe6088efe02d53d181e2adb19521d0094",
-      "id": "5e6d2cc83eda",
-      "priority": 1,
-      "group": "874a78ca56ac"
     }
   ]
 }
