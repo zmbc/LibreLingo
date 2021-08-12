@@ -120,6 +120,8 @@ Phrases:
   - Phrase: soweli li pona
     Translation: The dog is good
     Alternative translations:
+      # - The [dog/cat/land mammal] is good
+      # - [The/] [dogs/cats/land mammals] are good
       - The dogs are good
       - Dogs are good
       - The cat is good
